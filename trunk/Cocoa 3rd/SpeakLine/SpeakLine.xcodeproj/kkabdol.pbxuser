@@ -1,0 +1,142 @@
+// !$*UTF8*$!
+{
+	256AC3D80F4B6AC300CF3369 /* SpeakLineAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {684, 432}}";
+			sepNavSelRange = "{482, 0}";
+			sepNavVisRange = "{0, 599}";
+			sepNavWindowFrame = "{{15, 213}, {565, 560}}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* SpeakLineAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 1703}}";
+			sepNavSelRange = "{234, 0}";
+			sepNavVisRange = "{3, 373}";
+			sepNavWindowFrame = "{{164, 147}, {701, 631}}";
+		};
+	};
+	25B436A910F45239007D43BB /* SpeakLine */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SpeakLine;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	25B436BB10F45245007D43BB /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	25B436BC10F45245007D43BB /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	25B437CE10F4827F007D43BB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* SpeakLineAppDelegate.h */;
+		name = "SpeakLineAppDelegate.h: 23";
+		rLen = 61;
+		rLoc = 533;
+		rType = 0;
+		vrLen = 432;
+		vrLoc = 44;
+	};
+	25B437CF10F4827F007D43BB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* SpeakLineAppDelegate.m */;
+		name = "SpeakLineAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 373;
+		vrLoc = 3;
+	};
+	25B437D010F4827F007D43BB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* SpeakLineAppDelegate.m */;
+		name = "SpeakLineAppDelegate.m: 14";
+		rLen = 0;
+		rLoc = 234;
+		rType = 0;
+		vrLen = 373;
+		vrLoc = 3;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 25B436A910F45239007D43BB /* SpeakLine */;
+		activeTarget = 8D1107260486CEB800E47090 /* SpeakLine */;
+		codeSenseManager = 25B436BC10F45245007D43BB /* Code sense */;
+		executables = (
+			25B436A910F45239007D43BB /* SpeakLine */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 284453388;
+			PBXWorkspaceStateSaveDate = 284453388;
+		};
+		perUserProjectItems = {
+			25B437CE10F4827F007D43BB /* PBXTextBookmark */ = 25B437CE10F4827F007D43BB /* PBXTextBookmark */;
+			25B437CF10F4827F007D43BB /* PBXTextBookmark */ = 25B437CF10F4827F007D43BB /* PBXTextBookmark */;
+			25B437D010F4827F007D43BB /* PBXTextBookmark */ = 25B437D010F4827F007D43BB /* PBXTextBookmark */;
+		};
+		sourceControlManager = 25B436BB10F45245007D43BB /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* SpeakLine */ = {
+		activeExec = 0;
+		executables = (
+			25B436A910F45239007D43BB /* SpeakLine */,
+		);
+	};
+}

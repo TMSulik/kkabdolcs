@@ -1,0 +1,265 @@
+// !$*UTF8*$!
+{
+	256AC3D80F4B6AC300CF3369 /* ToDoListAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {622, 424}}";
+			sepNavSelRange = "{370, 0}";
+			sepNavVisRange = "{0, 492}";
+			sepNavWindowFrame = "{{38, 506}, {681, 552}}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* ToDoListAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {643, 936}}";
+			sepNavSelRange = "{189, 0}";
+			sepNavVisRange = "{0, 504}";
+			sepNavWindowFrame = "{{897, 169}, {813, 887}}";
+		};
+	};
+	25B4382110F48646007D43BB /* ToDoList */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ToDoList;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	25B4382510F48664007D43BB /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	25B4382610F48664007D43BB /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	25D137C610F4B0F500D0B9FC /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* ToDoListAppDelegate.h */;
+	};
+	25D137EF10F4B9DA00D0B9FC /* ToDoListAppDelegate.m:39 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 256AC3D90F4B6AC300CF3369 /* ToDoListAppDelegate.m */;
+		functionName = "-numberOfRowsInTableView:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 39;
+		location = ToDoList;
+		modificationTime = 284476752.341577;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	25D137F110F4B9DC00D0B9FC /* ToDoListAppDelegate.m:44 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 256AC3D90F4B6AC300CF3369 /* ToDoListAppDelegate.m */;
+		functionName = "-tableView:objectValueForTableColumn:row:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 44;
+		location = ToDoList;
+		modificationTime = 284476752.341807;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	25D137F310F4B9DD00D0B9FC /* ToDoListAppDelegate.m:52 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 256AC3D90F4B6AC300CF3369 /* ToDoListAppDelegate.m */;
+		functionName = "-tableViewSelectionDidChange:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 52;
+		location = ToDoList;
+		modificationTime = 284476752.624128;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	25D137F710F4BA5800D0B9FC /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* ToDoList-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/kkabdol/Desktop/Study/ToDoList/ToDoList-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	25D137F810F4BA5800D0B9FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 246;
+		vrLoc = 0;
+	};
+	25D137F910F4BA5800D0B9FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* ToDoListAppDelegate.h */;
+		name = "ToDoListAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 310;
+		vrLoc = 0;
+	};
+	25D137FA10F4BA5800D0B9FC /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* ToDoListAppDelegate.m */;
+	};
+	25D137FE10F4BA5800D0B9FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* ToDoListAppDelegate.m */;
+		name = "ToDoListAppDelegate.m: 35";
+		rLen = 0;
+		rLoc = 762;
+		rType = 0;
+		vrLen = 1128;
+		vrLoc = 3;
+	};
+	25D1386510F4C8DB00D0B9FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* ToDoListAppDelegate.m */;
+		name = "ToDoListAppDelegate.m: 11";
+		rLen = 0;
+		rLoc = 189;
+		rType = 0;
+		vrLen = 504;
+		vrLoc = 0;
+	};
+	25D1386610F4C8DB00D0B9FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* ToDoListAppDelegate.h */;
+		name = "ToDoListAppDelegate.h: 16";
+		rLen = 0;
+		rLoc = 370;
+		rType = 0;
+		vrLen = 492;
+		vrLoc = 0;
+	};
+	25D1386710F4C8DB00D0B9FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* ToDoListAppDelegate.m */;
+		name = "ToDoListAppDelegate.m: 58";
+		rLen = 0;
+		rLoc = 1233;
+		rType = 0;
+		vrLen = 1228;
+		vrLoc = 87;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 25B4382110F48646007D43BB /* ToDoList */;
+		activeTarget = 8D1107260486CEB800E47090 /* ToDoList */;
+		breakpoints = (
+			25D137EF10F4B9DA00D0B9FC /* ToDoListAppDelegate.m:39 */,
+			25D137F110F4B9DC00D0B9FC /* ToDoListAppDelegate.m:44 */,
+			25D137F310F4B9DD00D0B9FC /* ToDoListAppDelegate.m:52 */,
+		);
+		codeSenseManager = 25B4382610F48664007D43BB /* Code sense */;
+		executables = (
+			25B4382110F48646007D43BB /* ToDoList */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					465,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 284471313;
+			PBXWorkspaceStateSaveDate = 284471313;
+		};
+		perUserProjectItems = {
+			25D137C610F4B0F500D0B9FC /* PBXBookmark */ = 25D137C610F4B0F500D0B9FC /* PBXBookmark */;
+			25D137F710F4BA5800D0B9FC /* PlistBookmark */ = 25D137F710F4BA5800D0B9FC /* PlistBookmark */;
+			25D137F810F4BA5800D0B9FC /* PBXTextBookmark */ = 25D137F810F4BA5800D0B9FC /* PBXTextBookmark */;
+			25D137F910F4BA5800D0B9FC /* PBXTextBookmark */ = 25D137F910F4BA5800D0B9FC /* PBXTextBookmark */;
+			25D137FA10F4BA5800D0B9FC /* PBXBookmark */ = 25D137FA10F4BA5800D0B9FC /* PBXBookmark */;
+			25D137FE10F4BA5800D0B9FC /* PBXTextBookmark */ = 25D137FE10F4BA5800D0B9FC /* PBXTextBookmark */;
+			25D1386510F4C8DB00D0B9FC /* PBXTextBookmark */ = 25D1386510F4C8DB00D0B9FC /* PBXTextBookmark */;
+			25D1386610F4C8DB00D0B9FC /* PBXTextBookmark */ = 25D1386610F4C8DB00D0B9FC /* PBXTextBookmark */;
+			25D1386710F4C8DB00D0B9FC /* PBXTextBookmark */ = 25D1386710F4C8DB00D0B9FC /* PBXTextBookmark */;
+		};
+		sourceControlManager = 25B4382510F48664007D43BB /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {643, 318}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 246}";
+		};
+	};
+	8D1107260486CEB800E47090 /* ToDoList */ = {
+		activeExec = 0;
+		executables = (
+			25B4382110F48646007D43BB /* ToDoList */,
+		);
+	};
+}

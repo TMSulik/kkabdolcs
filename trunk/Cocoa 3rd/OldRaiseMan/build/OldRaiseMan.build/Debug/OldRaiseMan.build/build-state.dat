@@ -1,0 +1,269 @@
+TOldRaiseMan
+v7
+r0
+t284616959.100910
+cCheck dependencies
+cProcessInfoPlistFile /Users/kkabdol/Desktop/Study/OldRaiseMan/build/Debug/OldRaiseMan.app/Contents/Info.plist OldRaiseMan-Info.plist
+cCpResource build/Debug/OldRaiseMan.app/Contents/Resources/English.lproj/Credits.rtf English.lproj/Credits.rtf
+cCopyStringsFile /Users/kkabdol/Desktop/Study/OldRaiseMan/build/Debug/OldRaiseMan.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/kkabdol/Desktop/Study/OldRaiseMan/English.lproj/MyDocument.xib
+cCompileXIB /Users/kkabdol/Desktop/Study/OldRaiseMan/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/1E/1E6FvrPJGIa8WDF4LcSRjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OldRaiseMan_Prefix-enckeiblsvanpbcdgribmiubzzuh/OldRaiseMan_Prefix.pch.gch OldRaiseMan_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OldRaiseMan.build/Debug/OldRaiseMan.build/Objects-normal/x86_64/MyDocument.o /Users/kkabdol/Desktop/Study/OldRaiseMan/MyDocument.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OldRaiseMan.build/Debug/OldRaiseMan.build/Objects-normal/x86_64/main.o /Users/kkabdol/Desktop/Study/OldRaiseMan/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OldRaiseMan.build/Debug/OldRaiseMan.build/Objects-normal/x86_64/Person.o /Users/kkabdol/Desktop/Study/OldRaiseMan/Person.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/kkabdol/Desktop/Study/OldRaiseMan/build/Debug/OldRaiseMan.app/Contents/MacOS/OldRaiseMan normal x86_64
+cTouch /Users/kkabdol/Desktop/Study/OldRaiseMan/build/Debug/OldRaiseMan.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/kkabdol/Desktop/Study/OldRaiseMan/English.lproj/Credits.rtf
+c000000004B46A3D000000000000001B4
+t1262920656
+s436
+
+N/Users/kkabdol/Desktop/Study/OldRaiseMan/English.lproj/InfoPlist.strings
+c000000004B46A3D0000000000000002D
+t1262920656
+s45
+
+N/Users/kkabdol/Desktop/Study/OldRaiseMan/English.lproj/MainMenu.xib
+c000000004B46A3D0000000000002ADEE
+t1262920656
+s175598
+
+N/Users/kkabdol/Desktop/Study/OldRaiseMan/English.lproj/MyDocument.xib
+c000000004B46B17D000000000000D966
+t1262924157
+s55654
+
+N/Users/kkabdol/Desktop/Study/OldRaiseMan/MyDocument.h
+c000000004B46A9000000000000000170
+t1262921984
+s368
+i<Cocoa/Cocoa.h>
+
+N/Users/kkabdol/Desktop/Study/OldRaiseMan/MyDocument.m
+c000000004B46B1960000000000001104
+t1262924182
+s4356
+i"MyDocument.h"
+
+N/Users/kkabdol/Desktop/Study/OldRaiseMan/OldRaiseMan_Prefix.pch
+c000000004B46A3D00000000000000099
+t1262920656
+s153
+i<Cocoa/Cocoa.h>
+
+N/Users/kkabdol/Desktop/Study/OldRaiseMan/Person.h
+c000000004B46AD1D000000000000014C
+t1262923037
+s332
+i<Cocoa/Cocoa.h>
+
+N/Users/kkabdol/Desktop/Study/OldRaiseMan/Person.m
+c000000004B46ACAB0000000000000228
+t1262922923
+s552
+i"Person.h"
+
+N/Users/kkabdol/Desktop/Study/OldRaiseMan/build/Debug/OldRaiseMan.app
+t1262924159
+s102
+
+N/Users/kkabdol/Desktop/Study/OldRaiseMan/build/Debug/OldRaiseMan.app/Contents/Info.plist
+t1262921737
+s1322
+
+N/Users/kkabdol/Desktop/Study/OldRaiseMan/build/Debug/OldRaiseMan.app/Contents/MacOS/OldRaiseMan
+t1262924159
+s18416
+
+N/Users/kkabdol/Desktop/Study/OldRaiseMan/build/Debug/OldRaiseMan.app/Contents/PkgInfo
+t1262921737
+s8
+
+N/Users/kkabdol/Desktop/Study/OldRaiseMan/build/Debug/OldRaiseMan.app/Contents/Resources/English.lproj/Credits.rtf
+t1262921737
+s436
+
+N/Users/kkabdol/Desktop/Study/OldRaiseMan/build/Debug/OldRaiseMan.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1262921737
+s92
+
+N/Users/kkabdol/Desktop/Study/OldRaiseMan/build/Debug/OldRaiseMan.app/Contents/Resources/English.lproj/MainMenu.nib
+t1262921737
+s33325
+
+N/Users/kkabdol/Desktop/Study/OldRaiseMan/build/Debug/OldRaiseMan.app/Contents/Resources/English.lproj/MyDocument.nib
+t1262924158
+s10158
+
+N/Users/kkabdol/Desktop/Study/OldRaiseMan/build/OldRaiseMan.build/Debug/OldRaiseMan.build/Objects-normal/x86_64/MyDocument.o
+t1262924159
+s32848
+
+N/Users/kkabdol/Desktop/Study/OldRaiseMan/build/OldRaiseMan.build/Debug/OldRaiseMan.build/Objects-normal/x86_64/OldRaiseMan.LinkFileList
+c000000004B46A808000000000000016A
+t1262921736
+s362
+
+N/Users/kkabdol/Desktop/Study/OldRaiseMan/build/OldRaiseMan.build/Debug/OldRaiseMan.build/Objects-normal/x86_64/Person.o
+t1262923054
+s12408
+
+N/Users/kkabdol/Desktop/Study/OldRaiseMan/build/OldRaiseMan.build/Debug/OldRaiseMan.build/Objects-normal/x86_64/main.o
+t1262921742
+s5000
+
+N/Users/kkabdol/Desktop/Study/OldRaiseMan/main.m
+c000000004B46A3D000000000000000F8
+t1262920656
+s248
+i<Cocoa/Cocoa.h>
+
+N/var/folders/1E/1E6FvrPJGIa8WDF4LcSRjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OldRaiseMan_Prefix-enckeiblsvanpbcdgribmiubzzuh/OldRaiseMan_Prefix.pch.gch
+t1262921741
+s54212368
+
+NOldRaiseMan-Info.plist
+c000000004B46A3D000000000000005CA
+t1262920656
+s1482
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies284616958#284616958#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/OldRaiseMan.build/Debug/OldRaiseMan.build/Objects-normal/x86_64/MyDocument.o /Users/kkabdol/Desktop/Study/OldRaiseMan/MyDocument.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s284616958.837341
+e284616959.048225
+r1
+xCompileC
+xbuild/OldRaiseMan.build/Debug/OldRaiseMan.build/Objects-normal/x86_64/MyDocument.o
+x/Users/kkabdol/Desktop/Study/OldRaiseMan/MyDocument.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/kkabdol/Desktop/Study/OldRaiseMan/MyDocument.m: In function '-[MyDocument createEmployee:]':
+o/Users/kkabdol/Desktop/Study/OldRaiseMan/MyDocument.m:39: warning: receiver 'Person' is a forward class and corresponding @interface may not exist
+o/Users/kkabdol/Desktop/Study/OldRaiseMan/MyDocument.m: In function '-[MyDocument tableView:objectValueForTableColumn:row:]':
+o/Users/kkabdol/Desktop/Study/OldRaiseMan/MyDocument.m:72: warning: format not a string literal and no format arguments
+o/Users/kkabdol/Desktop/Study/OldRaiseMan/MyDocument.m: In function '-[MyDocument tableView:setObjectValue:forTableColumn:row:]':
+o/Users/kkabdol/Desktop/Study/OldRaiseMan/MyDocument.m:87: warning: format not a string literal and no format arguments
+lSLF07#2@61"Compile /Users/kkabdol/Desktop/Study/OldRaiseMan/MyDocument.m284616958#284616959#0(739"/Users/kkabdol/Desktop/Study/OldRaiseMan/MyDocument.m: In function '-[MyDocument createEmployee:]':/Users/kkabdol/Desktop/Study/OldRaiseMan/MyDocument.m:39: warning: receiver 'Person' is a forward class and corresponding @interface may not exist/Users/kkabdol/Desktop/Study/OldRaiseMan/MyDocument.m: In function '-[MyDocument tableView:objectValueForTableColumn:row:]':/Users/kkabdol/Desktop/Study/OldRaiseMan/MyDocument.m:72: warning: format not a string literal and no format arguments/Users/kkabdol/Desktop/Study/OldRaiseMan/MyDocument.m: In function '-[MyDocument tableView:setObjectValue:forTableColumn:row:]':/Users/kkabdol/Desktop/Study/OldRaiseMan/MyDocument.m:87: warning: format not a string literal and no format arguments3(22@79"Receiver 'Person' is a forward class and corresponding @interface may not exist284616958#100#147#0(6@53"/Users/kkabdol/Desktop/Study/OldRaiseMan/MyDocument.m284616933#39#0#39#0#0"0(22@51"Format not a string literal and no format arguments284616958#372#119#0(6@53"/Users/kkabdol/Desktop/Study/OldRaiseMan/MyDocument.m284616933#72#0#72#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments284616958#620#119#0(6@53"/Users/kkabdol/Desktop/Study/OldRaiseMan/MyDocument.m284616933#87#0#87#0#51"format not a string literal and no format arguments0(0#0#53"/Users/kkabdol/Desktop/Study/OldRaiseMan/MyDocument.m4300885448#1564"    cd /Users/kkabdol/Desktop/Study/OldRaiseMan    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kkabdol/Desktop/Study/OldRaiseMan/build/OldRaiseMan.build/Debug/OldRaiseMan.build/OldRaiseMan-generated-files.hmap -I/Users/kkabdol/Desktop/Study/OldRaiseMan/build/OldRaiseMan.build/Debug/OldRaiseMan.build/OldRaiseMan-own-target-headers.hmap -I/Users/kkabdol/Desktop/Study/OldRaiseMan/build/OldRaiseMan.build/Debug/OldRaiseMan.build/OldRaiseMan-all-target-headers.hmap -iquote /Users/kkabdol/Desktop/Study/OldRaiseMan/build/OldRaiseMan.build/Debug/OldRaiseMan.build/OldRaiseMan-project-headers.hmap -F/Users/kkabdol/Desktop/Study/OldRaiseMan/build/Debug -I/Users/kkabdol/Desktop/Study/OldRaiseMan/build/Debug/include -I/Users/kkabdol/Desktop/Study/OldRaiseMan/build/OldRaiseMan.build/Debug/OldRaiseMan.build/DerivedSources/x86_64 -I/Users/kkabdol/Desktop/Study/OldRaiseMan/build/OldRaiseMan.build/Debug/OldRaiseMan.build/DerivedSources -include /var/folders/1E/1E6FvrPJGIa8WDF4LcSRjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OldRaiseMan_Prefix-enckeiblsvanpbcdgribmiubzzuh/OldRaiseMan_Prefix.pch -c /Users/kkabdol/Desktop/Study/OldRaiseMan/MyDocument.m -o /Users/kkabdol/Desktop/Study/OldRaiseMan/build/OldRaiseMan.build/Debug/OldRaiseMan.build/Objects-normal/x86_64/MyDocument.o0#
+
+CCompileC build/OldRaiseMan.build/Debug/OldRaiseMan.build/Objects-normal/x86_64/Person.o /Users/kkabdol/Desktop/Study/OldRaiseMan/Person.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s284615854.213129
+e284615854.435107
+r1
+xCompileC
+xbuild/OldRaiseMan.build/Debug/OldRaiseMan.build/Objects-normal/x86_64/Person.o
+x/Users/kkabdol/Desktop/Study/OldRaiseMan/Person.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/kkabdol/Desktop/Study/OldRaiseMan/Person.m284615854#284615854#0(0"0(0#0#49"/Users/kkabdol/Desktop/Study/OldRaiseMan/Person.m4300885448#1556"    cd /Users/kkabdol/Desktop/Study/OldRaiseMan    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kkabdol/Desktop/Study/OldRaiseMan/build/OldRaiseMan.build/Debug/OldRaiseMan.build/OldRaiseMan-generated-files.hmap -I/Users/kkabdol/Desktop/Study/OldRaiseMan/build/OldRaiseMan.build/Debug/OldRaiseMan.build/OldRaiseMan-own-target-headers.hmap -I/Users/kkabdol/Desktop/Study/OldRaiseMan/build/OldRaiseMan.build/Debug/OldRaiseMan.build/OldRaiseMan-all-target-headers.hmap -iquote /Users/kkabdol/Desktop/Study/OldRaiseMan/build/OldRaiseMan.build/Debug/OldRaiseMan.build/OldRaiseMan-project-headers.hmap -F/Users/kkabdol/Desktop/Study/OldRaiseMan/build/Debug -I/Users/kkabdol/Desktop/Study/OldRaiseMan/build/Debug/include -I/Users/kkabdol/Desktop/Study/OldRaiseMan/build/OldRaiseMan.build/Debug/OldRaiseMan.build/DerivedSources/x86_64 -I/Users/kkabdol/Desktop/Study/OldRaiseMan/build/OldRaiseMan.build/Debug/OldRaiseMan.build/DerivedSources -include /var/folders/1E/1E6FvrPJGIa8WDF4LcSRjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OldRaiseMan_Prefix-enckeiblsvanpbcdgribmiubzzuh/OldRaiseMan_Prefix.pch -c /Users/kkabdol/Desktop/Study/OldRaiseMan/Person.m -o /Users/kkabdol/Desktop/Study/OldRaiseMan/build/OldRaiseMan.build/Debug/OldRaiseMan.build/Objects-normal/x86_64/Person.o0#
+
+CCompileC build/OldRaiseMan.build/Debug/OldRaiseMan.build/Objects-normal/x86_64/main.o /Users/kkabdol/Desktop/Study/OldRaiseMan/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s284614542.013853
+e284614542.219306
+r1
+xCompileC
+xbuild/OldRaiseMan.build/Debug/OldRaiseMan.build/Objects-normal/x86_64/main.o
+x/Users/kkabdol/Desktop/Study/OldRaiseMan/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/kkabdol/Desktop/Study/OldRaiseMan/main.m284614542#284614542#0(0"0(0#0#47"/Users/kkabdol/Desktop/Study/OldRaiseMan/main.m4300885448#1552"    cd /Users/kkabdol/Desktop/Study/OldRaiseMan    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kkabdol/Desktop/Study/OldRaiseMan/build/OldRaiseMan.build/Debug/OldRaiseMan.build/OldRaiseMan-generated-files.hmap -I/Users/kkabdol/Desktop/Study/OldRaiseMan/build/OldRaiseMan.build/Debug/OldRaiseMan.build/OldRaiseMan-own-target-headers.hmap -I/Users/kkabdol/Desktop/Study/OldRaiseMan/build/OldRaiseMan.build/Debug/OldRaiseMan.build/OldRaiseMan-all-target-headers.hmap -iquote /Users/kkabdol/Desktop/Study/OldRaiseMan/build/OldRaiseMan.build/Debug/OldRaiseMan.build/OldRaiseMan-project-headers.hmap -F/Users/kkabdol/Desktop/Study/OldRaiseMan/build/Debug -I/Users/kkabdol/Desktop/Study/OldRaiseMan/build/Debug/include -I/Users/kkabdol/Desktop/Study/OldRaiseMan/build/OldRaiseMan.build/Debug/OldRaiseMan.build/DerivedSources/x86_64 -I/Users/kkabdol/Desktop/Study/OldRaiseMan/build/OldRaiseMan.build/Debug/OldRaiseMan.build/DerivedSources -include /var/folders/1E/1E6FvrPJGIa8WDF4LcSRjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OldRaiseMan_Prefix-enckeiblsvanpbcdgribmiubzzuh/OldRaiseMan_Prefix.pch -c /Users/kkabdol/Desktop/Study/OldRaiseMan/main.m -o /Users/kkabdol/Desktop/Study/OldRaiseMan/build/OldRaiseMan.build/Debug/OldRaiseMan.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/kkabdol/Desktop/Study/OldRaiseMan/English.lproj/MainMenu.xib
+s284614537.067800
+e284614537.592471
+r1
+xCompileXIB
+x/Users/kkabdol/Desktop/Study/OldRaiseMan/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib284614537#284614537#0(0"0(0#0#67"/Users/kkabdol/Desktop/Study/OldRaiseMan/English.lproj/MainMenu.xib4300885448#337"    cd /Users/kkabdol/Desktop/Study/OldRaiseMan    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kkabdol/Desktop/Study/OldRaiseMan/build/Debug/OldRaiseMan.app/Contents/Resources/English.lproj/MainMenu.nib /Users/kkabdol/Desktop/Study/OldRaiseMan/English.lproj/MainMenu.xib0#
+
+CCompileXIB /Users/kkabdol/Desktop/Study/OldRaiseMan/English.lproj/MyDocument.xib
+s284616958.478642
+e284616958.837098
+r1
+xCompileXIB
+x/Users/kkabdol/Desktop/Study/OldRaiseMan/English.lproj/MyDocument.xib
+lSLF07#2@39"CompileXIB English.lproj/MyDocument.xib284616958#284616958#0(0"0(0#0#69"/Users/kkabdol/Desktop/Study/OldRaiseMan/English.lproj/MyDocument.xib4300885448#341"    cd /Users/kkabdol/Desktop/Study/OldRaiseMan    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kkabdol/Desktop/Study/OldRaiseMan/build/Debug/OldRaiseMan.app/Contents/Resources/English.lproj/MyDocument.nib /Users/kkabdol/Desktop/Study/OldRaiseMan/English.lproj/MyDocument.xib0#
+
+CCopyStringsFile /Users/kkabdol/Desktop/Study/OldRaiseMan/build/Debug/OldRaiseMan.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s284614537.028105
+e284614537.067677
+r1
+xCopyStringsFile
+x/Users/kkabdol/Desktop/Study/OldRaiseMan/build/Debug/OldRaiseMan.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings284614537#284614537#0(0"0(0#0#72"/Users/kkabdol/Desktop/Study/OldRaiseMan/English.lproj/InfoPlist.strings4300885448#373"    cd /Users/kkabdol/Desktop/Study/OldRaiseMan    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/kkabdol/Desktop/Study/OldRaiseMan/build/Debug/OldRaiseMan.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/OldRaiseMan.app/Contents/Resources/English.lproj/Credits.rtf English.lproj/Credits.rtf
+s284614537.022606
+e284614537.035411
+r1
+xCpResource
+xbuild/Debug/OldRaiseMan.app/Contents/Resources/English.lproj/Credits.rtf
+xEnglish.lproj/Credits.rtf
+lSLF07#2@30"Copy English.lproj/Credits.rtf284614537#284614537#0(0"0(0#0#66"/Users/kkabdol/Desktop/Study/OldRaiseMan/English.lproj/Credits.rtf4300885448#365"    cd /Users/kkabdol/Desktop/Study/OldRaiseMan    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/kkabdol/Desktop/Study/OldRaiseMan/English.lproj/Credits.rtf /Users/kkabdol/Desktop/Study/OldRaiseMan/build/Debug/OldRaiseMan.app/Contents/Resources/English.lproj0#
+
+CLd /Users/kkabdol/Desktop/Study/OldRaiseMan/build/Debug/OldRaiseMan.app/Contents/MacOS/OldRaiseMan normal x86_64
+s284616959.048344
+e284616959.097441
+r1
+xLd
+x/Users/kkabdol/Desktop/Study/OldRaiseMan/build/Debug/OldRaiseMan.app/Contents/MacOS/OldRaiseMan
+xnormal
+xx86_64
+lSLF07#2@100"Link /Users/kkabdol/Desktop/Study/OldRaiseMan/build/Debug/OldRaiseMan.app/Contents/MacOS/OldRaiseMan284616959#284616959#0(0"0(0#0#0"4300885448#572"    cd /Users/kkabdol/Desktop/Study/OldRaiseMan    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/kkabdol/Desktop/Study/OldRaiseMan/build/Debug -F/Users/kkabdol/Desktop/Study/OldRaiseMan/build/Debug -filelist /Users/kkabdol/Desktop/Study/OldRaiseMan/build/OldRaiseMan.build/Debug/OldRaiseMan.build/Objects-normal/x86_64/OldRaiseMan.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/kkabdol/Desktop/Study/OldRaiseMan/build/Debug/OldRaiseMan.app/Contents/MacOS/OldRaiseMan0#
+
+CProcessInfoPlistFile /Users/kkabdol/Desktop/Study/OldRaiseMan/build/Debug/OldRaiseMan.app/Contents/Info.plist OldRaiseMan-Info.plist
+s284614537.005283
+e284614537.022465
+r1
+xProcessInfoPlistFile
+x/Users/kkabdol/Desktop/Study/OldRaiseMan/build/Debug/OldRaiseMan.app/Contents/Info.plist
+xOldRaiseMan-Info.plist
+lSLF07#2@30"Process OldRaiseMan-Info.plist284614537#284614537#0(0"0(0#0#63"/Users/kkabdol/Desktop/Study/OldRaiseMan/OldRaiseMan-Info.plist32932993188560964#328"    cd /Users/kkabdol/Desktop/Study/OldRaiseMan    builtin-infoPlistUtility OldRaiseMan-Info.plist -genpkginfo /Users/kkabdol/Desktop/Study/OldRaiseMan/build/Debug/OldRaiseMan.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/kkabdol/Desktop/Study/OldRaiseMan/build/Debug/OldRaiseMan.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/1E/1E6FvrPJGIa8WDF4LcSRjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OldRaiseMan_Prefix-enckeiblsvanpbcdgribmiubzzuh/OldRaiseMan_Prefix.pch.gch OldRaiseMan_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s284614537.592718
+e284614542.012526
+r1
+xProcessPCH
+x/var/folders/1E/1E6FvrPJGIa8WDF4LcSRjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OldRaiseMan_Prefix-enckeiblsvanpbcdgribmiubzzuh/OldRaiseMan_Prefix.pch.gch
+xOldRaiseMan_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile OldRaiseMan_Prefix.pch284614537#284614542#0(0"0(0#0#63"/Users/kkabdol/Desktop/Study/OldRaiseMan/OldRaiseMan_Prefix.pch4300885448#1452"    cd /Users/kkabdol/Desktop/Study/OldRaiseMan    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kkabdol/Desktop/Study/OldRaiseMan/build/OldRaiseMan.build/Debug/OldRaiseMan.build/OldRaiseMan-generated-files.hmap -I/Users/kkabdol/Desktop/Study/OldRaiseMan/build/OldRaiseMan.build/Debug/OldRaiseMan.build/OldRaiseMan-own-target-headers.hmap -I/Users/kkabdol/Desktop/Study/OldRaiseMan/build/OldRaiseMan.build/Debug/OldRaiseMan.build/OldRaiseMan-all-target-headers.hmap -iquote /Users/kkabdol/Desktop/Study/OldRaiseMan/build/OldRaiseMan.build/Debug/OldRaiseMan.build/OldRaiseMan-project-headers.hmap -F/Users/kkabdol/Desktop/Study/OldRaiseMan/build/Debug -I/Users/kkabdol/Desktop/Study/OldRaiseMan/build/Debug/include -I/Users/kkabdol/Desktop/Study/OldRaiseMan/build/OldRaiseMan.build/Debug/OldRaiseMan.build/DerivedSources/x86_64 -I/Users/kkabdol/Desktop/Study/OldRaiseMan/build/OldRaiseMan.build/Debug/OldRaiseMan.build/DerivedSources -c /Users/kkabdol/Desktop/Study/OldRaiseMan/OldRaiseMan_Prefix.pch -o /var/folders/1E/1E6FvrPJGIa8WDF4LcSRjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OldRaiseMan_Prefix-enckeiblsvanpbcdgribmiubzzuh/OldRaiseMan_Prefix.pch.gch0#
+
+CTouch /Users/kkabdol/Desktop/Study/OldRaiseMan/build/Debug/OldRaiseMan.app
+s284616959.097549
+e284616959.100867
+r1
+xTouch
+x/Users/kkabdol/Desktop/Study/OldRaiseMan/build/Debug/OldRaiseMan.app
+lSLF07#2@74"Touch /Users/kkabdol/Desktop/Study/OldRaiseMan/build/Debug/OldRaiseMan.app284616959#284616959#0(0"0(0#0#0"4300885448#139"    cd /Users/kkabdol/Desktop/Study/OldRaiseMan    /usr/bin/touch -c /Users/kkabdol/Desktop/Study/OldRaiseMan/build/Debug/OldRaiseMan.app0#
+

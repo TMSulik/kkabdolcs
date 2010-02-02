@@ -1,0 +1,700 @@
+TiPhoneGame
+v7
+r0
+t286817869.465253
+cCheck dependencies
+cProcessInfoPlistFile "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/iPhoneGame.app/Info.plist" iPhoneGame-Info.plist
+cCompileXIB "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/MainWindow.xib"
+cCpResource build/Debug-iphonesimulator/iPhoneGame.app/player.png player.png
+cCpResource build/Debug-iphonesimulator/iPhoneGame.app/spritesheet16.gif spritesheet16.gif
+cCpResource build/Debug-iphonesimulator/iPhoneGame.app/font1.fnt font1.fnt
+cCpResource build/Debug-iphonesimulator/iPhoneGame.app/font1.png font1.png
+cCpResource build/Debug-iphonesimulator/iPhoneGame.app/test1.fnt test1.fnt
+cCpResource build/Debug-iphonesimulator/iPhoneGame.app/test1.png test1.png
+cCpResource build/Debug-iphonesimulator/iPhoneGame.app/kkabfont.fnt kkabfont.fnt
+cCpResource build/Debug-iphonesimulator/iPhoneGame.app/kkabfont.png kkabfont.png
+cProcessPCH /var/folders/IS/ISVBNtRIHrWkqp-B+BRHqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneGame_Prefix-fbxmpcppnvybowgyfehlucnhixmf/iPhoneGame_Prefix.pch.gch iPhoneGame_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/main.o "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/iPhoneGameAppDelegate.o "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Classes/iPhoneGameAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/EAGLView.o "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Classes/EAGLView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/ES1Renderer.o "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Classes/ES1Renderer.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/Texture2D.o "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Texture2D.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/Image.o "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Image.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/SpriteSheet.o "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/SpriteSheet.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/AngelCodeFont.o "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/AngelCodeFont.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/CharDef.o "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/CharDef.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/Animation.o "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Animation.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/Frame.o "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Frame.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/iPhoneGame.app/iPhoneGame" normal i386
+cGenerateDSYMFile "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/iPhoneGame.app.dSYM" "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/iPhoneGame.app/iPhoneGame"
+cTouch "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/iPhoneGame.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004B4577BD00000000000000EE
+t1262843837
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004ABDCA29000000000000094F
+t1253952041
+s2383
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004ABDCA290000000000000A61
+t1253952041
+s2657
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004ABDCA290000000000009369
+t1253952041
+s37737
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004ABDCA290000000000002A42
+t1253952041
+s10818
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004ABDCA31000000000001F8E0
+t1253952049
+s129248
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004ABDCAC8000000000000007D
+t1253952200
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004ABDCB2000000000000E5890
+t1253952288
+s940176
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/Availability.h
+c000000004ABDCA4700000000000019F9
+t1253952071
+s6649
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/AngelCodeFont.h
+c000000004B67A4B10000000000000864
+t1265083569
+s2148
+i<Foundation/Foundation.h>
+i"Image.h"
+i"CharDef.h"
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/AngelCodeFont.m
+c000000004B67A4B10000000000002D0A
+t1265083569
+s11530
+i"AngelCodeFont.h"
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Animation.h
+c000000004B684162000000000000049D
+t1265123682
+s1181
+i<Foundation/Foundation.h>
+i"SpriteSheet.h"
+i"Frame.h"
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Animation.m
+c000000004B68446E0000000000000D4E
+t1265124462
+s3406
+i"Animation.h"
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/CharDef.h
+c000000004B67A4B10000000000000580
+t1265083569
+s1408
+i<Foundation/Foundation.h>
+i"Image.h"
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/CharDef.m
+c000000004B67A4B100000000000003DB
+t1265083569
+s987
+i"CharDef.h"
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Classes/EAGLView.h
+c000000004B67A4B10000000000000566
+t1265083569
+s1382
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+i"ESRenderer.h"
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Classes/EAGLView.m
+c000000004B67A4B10000000000001432
+t1265083569
+s5170
+i"EAGLView.h"
+i"ES1Renderer.h"
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Classes/ES1Renderer.h
+c000000004B67A4B100000000000003A2
+t1265083569
+s930
+i"ESRenderer.h"
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"Image.h"
+i"SpriteSheet.h"
+i"AngelCodeFont.h"
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Classes/ES1Renderer.m
+c000000004B67A4B10000000000001573
+t1265083569
+s5491
+i"ES1Renderer.h"
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Classes/ESRenderer.h
+c000000004B67A4B10000000000000183
+t1265083569
+s387
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/EAGLDrawable.h>
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Classes/iPhoneGameAppDelegate.h
+c000000004B67A4B10000000000000209
+t1265083569
+s521
+i<UIKit/UIKit.h>
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Classes/iPhoneGameAppDelegate.m
+c000000004B67A4B10000000000000382
+t1265083569
+s898
+i"iPhoneGameAppDelegate.h"
+i"EAGLView.h"
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Frame.h
+c000000004B68450E000000000000020F
+t1265124622
+s527
+i<Foundation/Foundation.h>
+i"Image.h"
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Frame.m
+c000000004B6846C400000000000001C6
+t1265125060
+s454
+i"Frame.h"
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Image.h
+c000000004B67A4B1000000000000150B
+t1265083569
+s5387
+i<Foundation/Foundation.h>
+i"Texture2D.h"
+i"iPhoneGameAppDelegate.h"
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Image.m
+c000000004B67A4B10000000000003479
+t1265083569
+s13433
+i"Image.h"
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/MainWindow.xib
+c000000004B67A4B1000000000000257C
+t1265083569
+s9596
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/SpriteSheet.h
+c000000004B67A4B100000000000005AC
+t1265083569
+s1452
+i<Foundation/Foundation.h>
+i"Image.h"
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/SpriteSheet.m
+c000000004B67A4B100000000000010E5
+t1265083569
+s4325
+i"SpriteSheet.h"
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Texture2D.h
+c000000004B67A4B100000000000012E7
+t1265083569
+s4839
+i<UIKit/UIKit.h>
+i<OpenGLES/ES1/gl.h>
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Texture2D.m
+c000000004B67A4B10000000000002A1E
+t1265083569
+s10782
+i<OpenGLES/ES1/glext.h>
+i"Texture2D.h"
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/iPhoneGame.app
+t1265125069
+s476
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/iPhoneGame.app.dSYM
+t1265125069
+s102
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/iPhoneGame.app/Info.plist
+t1265125061
+s576
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/iPhoneGame.app/MainWindow.nib
+t1265125066
+s1563
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/iPhoneGame.app/PkgInfo
+t1265125061
+s8
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/iPhoneGame.app/font1.fnt
+t1265125061
+s11426
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/iPhoneGame.app/font1.png
+t1265125061
+s14634
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/iPhoneGame.app/iPhoneGame
+t1265125069
+s87524
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/iPhoneGame.app/kkabfont.fnt
+t1265125061
+s11479
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/iPhoneGame.app/kkabfont.png
+t1265125061
+s38186
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/iPhoneGame.app/player.png
+t1265125061
+s4202
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/iPhoneGame.app/spritesheet16.gif
+t1265125061
+s8305
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/iPhoneGame.app/test1.fnt
+t1265125061
+s11497
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/iPhoneGame.app/test1.png
+t1265125061
+s99394
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/AngelCodeFont.o
+t1265125068
+s29260
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/Animation.o
+t1265125068
+s21360
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/CharDef.o
+t1265125068
+s20168
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/EAGLView.o
+t1265125068
+s25224
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/ES1Renderer.o
+t1265125068
+s26764
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/Frame.o
+t1265125069
+s14568
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/Image.o
+t1265125068
+s44756
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/SpriteSheet.o
+t1265125068
+s23372
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/Texture2D.o
+t1265125068
+s27084
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/iPhoneGame.LinkFileList
+c000000004B6846C4000000000000066B
+t1265125060
+s1643
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/iPhoneGameAppDelegate.o
+t1265125068
+s21448
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/main.o
+t1265125068
+s5988
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/font1.fnt
+c000000004B67A4B10000000000002CA2
+t1265083569
+s11426
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/font1.png
+c000000004B67A4B1000000000000392A
+t1265083569
+s14634
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/iPhoneGame_Prefix.pch
+c000000004B67A4B1000000000000014C
+t1265083569
+s332
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/kkabfont.fnt
+c000000004B67A4B10000000000002CD7
+t1265083569
+s11479
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/kkabfont.png
+c000000004B67A4B1000000000000952A
+t1265083569
+s38186
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/main.m
+c000000004B67A4B10000000000000176
+t1265083569
+s374
+i<UIKit/UIKit.h>
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/player.png
+c000000004B67A4B1000000000000106A
+t1265083569
+s4202
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/spritesheet16.gif
+c000000004B67A4B10000000000002071
+t1265083569
+s8305
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/test1.fnt
+c000000004B67A4B10000000000002CE9
+t1265083569
+s11497
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/test1.png
+c000000004B67A4B10000000000018442
+t1265083569
+s99394
+
+N/var/folders/IS/ISVBNtRIHrWkqp-B+BRHqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneGame_Prefix-fbxmpcppnvybowgyfehlucnhixmf/iPhoneGame_Prefix.pch.gch
+t1265125067
+s13022672
+
+NiPhoneGame-Info.plist
+c000000004B67A4B100000000000003AB
+t1265083569
+s939
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies286817860#286817861#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/AngelCodeFont.o "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/AngelCodeFont.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s286817868.626278
+e286817868.786231
+r1
+xCompileC
+xbuild/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/AngelCodeFont.o
+x/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/AngelCodeFont.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/AngelCodeFont.m: In function '-[AngelCodeFont parseFont:]':
+o/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/AngelCodeFont.m:60: warning: 'stringWithContentsOfFile:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:357)
+lSLF07#2@78"Compile /Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/AngelCodeFont.m286817868#286817868#0(411"/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/AngelCodeFont.m: In function '-[AngelCodeFont parseFont:]':/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/AngelCodeFont.m:60: warning: 'stringWithContentsOfFile:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:357)1(22@211"'stringWithContentsOfFile:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:357)286817868#115#296#0(6@70"/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/AngelCodeFont.m286776369#60#0#60#0#33"'*' is deprecated (declared at *)0(0#0#70"/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/AngelCodeFont.m4300885448#2143"    cd "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/iPhoneGame-generated-files.hmap" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/iPhoneGame-own-target-headers.hmap" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/iPhoneGame-all-target-headers.hmap" -iquote "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/iPhoneGame-project-headers.hmap" "-F/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/include" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/DerivedSources/i386" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/DerivedSources" -include /var/folders/IS/ISVBNtRIHrWkqp-B+BRHqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneGame_Prefix-fbxmpcppnvybowgyfehlucnhixmf/iPhoneGame_Prefix.pch -c "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/AngelCodeFont.m" -o "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/AngelCodeFont.o"0#
+
+CCompileC build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/Animation.o "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Animation.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s286817868.786334
+e286817868.903987
+r1
+xCompileC
+xbuild/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/Animation.o
+x/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Animation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Animation.m286817868#286817868#0(0"0(0#0#66"/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Animation.m4300885448#2135"    cd "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/iPhoneGame-generated-files.hmap" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/iPhoneGame-own-target-headers.hmap" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/iPhoneGame-all-target-headers.hmap" -iquote "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/iPhoneGame-project-headers.hmap" "-F/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/include" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/DerivedSources/i386" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/DerivedSources" -include /var/folders/IS/ISVBNtRIHrWkqp-B+BRHqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneGame_Prefix-fbxmpcppnvybowgyfehlucnhixmf/iPhoneGame_Prefix.pch -c "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Animation.m" -o "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/Animation.o"0#
+
+CCompileC build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/CharDef.o "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/CharDef.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s286817868.717747
+e286817868.942628
+r1
+xCompileC
+xbuild/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/CharDef.o
+x/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/CharDef.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/CharDef.m286817868#286817868#0(0"0(0#0#64"/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/CharDef.m4300885448#2131"    cd "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/iPhoneGame-generated-files.hmap" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/iPhoneGame-own-target-headers.hmap" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/iPhoneGame-all-target-headers.hmap" -iquote "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/iPhoneGame-project-headers.hmap" "-F/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/include" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/DerivedSources/i386" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/DerivedSources" -include /var/folders/IS/ISVBNtRIHrWkqp-B+BRHqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneGame_Prefix-fbxmpcppnvybowgyfehlucnhixmf/iPhoneGame_Prefix.pch -c "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/CharDef.m" -o "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/CharDef.o"0#
+
+CCompileC build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/EAGLView.o "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Classes/EAGLView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s286817868.090439
+e286817868.271678
+r1
+xCompileC
+xbuild/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/EAGLView.o
+x/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Classes/EAGLView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Classes/EAGLView.m286817868#286817868#0(0"0(0#0#73"/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Classes/EAGLView.m4300885448#2141"    cd "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/iPhoneGame-generated-files.hmap" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/iPhoneGame-own-target-headers.hmap" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/iPhoneGame-all-target-headers.hmap" -iquote "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/iPhoneGame-project-headers.hmap" "-F/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/include" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/DerivedSources/i386" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/DerivedSources" -include /var/folders/IS/ISVBNtRIHrWkqp-B+BRHqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneGame_Prefix-fbxmpcppnvybowgyfehlucnhixmf/iPhoneGame_Prefix.pch -c "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Classes/EAGLView.m" -o "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/EAGLView.o"0#
+
+CCompileC build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/ES1Renderer.o "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Classes/ES1Renderer.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s286817868.271789
+e286817868.441443
+r1
+xCompileC
+xbuild/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/ES1Renderer.o
+x/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Classes/ES1Renderer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Classes/ES1Renderer.m286817868#286817868#0(0"0(0#0#76"/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Classes/ES1Renderer.m4300885448#2147"    cd "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/iPhoneGame-generated-files.hmap" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/iPhoneGame-own-target-headers.hmap" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/iPhoneGame-all-target-headers.hmap" -iquote "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/iPhoneGame-project-headers.hmap" "-F/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/include" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/DerivedSources/i386" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/DerivedSources" -include /var/folders/IS/ISVBNtRIHrWkqp-B+BRHqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneGame_Prefix-fbxmpcppnvybowgyfehlucnhixmf/iPhoneGame_Prefix.pch -c "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Classes/ES1Renderer.m" -o "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/ES1Renderer.o"0#
+
+CCompileC build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/Frame.o "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Frame.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s286817868.904095
+e286817869.012363
+r1
+xCompileC
+xbuild/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/Frame.o
+x/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Frame.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Frame.m286817868#286817869#0(0"0(0#0#62"/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Frame.m4300885448#2127"    cd "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/iPhoneGame-generated-files.hmap" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/iPhoneGame-own-target-headers.hmap" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/iPhoneGame-all-target-headers.hmap" -iquote "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/iPhoneGame-project-headers.hmap" "-F/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/include" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/DerivedSources/i386" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/DerivedSources" -include /var/folders/IS/ISVBNtRIHrWkqp-B+BRHqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneGame_Prefix-fbxmpcppnvybowgyfehlucnhixmf/iPhoneGame_Prefix.pch -c "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Frame.m" -o "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/Frame.o"0#
+
+CCompileC build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/Image.o "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Image.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s286817868.441596
+e286817868.717637
+r1
+xCompileC
+xbuild/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/Image.o
+x/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Image.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Image.m286817868#286817868#0(0"0(0#0#62"/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Image.m4300885448#2127"    cd "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/iPhoneGame-generated-files.hmap" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/iPhoneGame-own-target-headers.hmap" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/iPhoneGame-all-target-headers.hmap" -iquote "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/iPhoneGame-project-headers.hmap" "-F/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/include" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/DerivedSources/i386" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/DerivedSources" -include /var/folders/IS/ISVBNtRIHrWkqp-B+BRHqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneGame_Prefix-fbxmpcppnvybowgyfehlucnhixmf/iPhoneGame_Prefix.pch -c "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Image.m" -o "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/Image.o"0#
+
+CCompileC build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/SpriteSheet.o "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/SpriteSheet.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s286817868.499510
+e286817868.626170
+r1
+xCompileC
+xbuild/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/SpriteSheet.o
+x/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/SpriteSheet.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/SpriteSheet.m286817868#286817868#0(0"0(0#0#68"/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/SpriteSheet.m4300885448#2139"    cd "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/iPhoneGame-generated-files.hmap" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/iPhoneGame-own-target-headers.hmap" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/iPhoneGame-all-target-headers.hmap" -iquote "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/iPhoneGame-project-headers.hmap" "-F/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/include" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/DerivedSources/i386" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/DerivedSources" -include /var/folders/IS/ISVBNtRIHrWkqp-B+BRHqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneGame_Prefix-fbxmpcppnvybowgyfehlucnhixmf/iPhoneGame_Prefix.pch -c "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/SpriteSheet.m" -o "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/SpriteSheet.o"0#
+
+CCompileC build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/Texture2D.o "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Texture2D.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s286817868.325733
+e286817868.499398
+r1
+xCompileC
+xbuild/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/Texture2D.o
+x/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Texture2D.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Texture2D.m286817868#286817868#0(0"0(0#0#66"/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Texture2D.m4300885448#2135"    cd "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/iPhoneGame-generated-files.hmap" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/iPhoneGame-own-target-headers.hmap" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/iPhoneGame-all-target-headers.hmap" -iquote "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/iPhoneGame-project-headers.hmap" "-F/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/include" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/DerivedSources/i386" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/DerivedSources" -include /var/folders/IS/ISVBNtRIHrWkqp-B+BRHqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneGame_Prefix-fbxmpcppnvybowgyfehlucnhixmf/iPhoneGame_Prefix.pch -c "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Texture2D.m" -o "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/Texture2D.o"0#
+
+CCompileC build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/iPhoneGameAppDelegate.o "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Classes/iPhoneGameAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s286817867.984602
+e286817868.325617
+r1
+xCompileC
+xbuild/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/iPhoneGameAppDelegate.o
+x/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Classes/iPhoneGameAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Classes/iPhoneGameAppDelegate.m286817867#286817868#0(0"0(0#0#86"/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Classes/iPhoneGameAppDelegate.m4300885448#2167"    cd "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/iPhoneGame-generated-files.hmap" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/iPhoneGame-own-target-headers.hmap" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/iPhoneGame-all-target-headers.hmap" -iquote "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/iPhoneGame-project-headers.hmap" "-F/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/include" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/DerivedSources/i386" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/DerivedSources" -include /var/folders/IS/ISVBNtRIHrWkqp-B+BRHqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneGame_Prefix-fbxmpcppnvybowgyfehlucnhixmf/iPhoneGame_Prefix.pch -c "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Classes/iPhoneGameAppDelegate.m" -o "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/iPhoneGameAppDelegate.o"0#
+
+CCompileC build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/main.o "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s286817867.983407
+e286817868.090233
+r1
+xCompileC
+xbuild/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/main.o
+x/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/main.m286817867#286817868#0(0"0(0#0#61"/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/main.m4300885448#2125"    cd "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/iPhoneGame-generated-files.hmap" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/iPhoneGame-own-target-headers.hmap" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/iPhoneGame-all-target-headers.hmap" -iquote "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/iPhoneGame-project-headers.hmap" "-F/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/include" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/DerivedSources/i386" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/DerivedSources" -include /var/folders/IS/ISVBNtRIHrWkqp-B+BRHqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneGame_Prefix-fbxmpcppnvybowgyfehlucnhixmf/iPhoneGame_Prefix.pch -c "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/main.m" -o "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/MainWindow.xib"
+s286817861.032038
+e286817866.236234
+r1
+xCompileXIB
+x/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib286817861#286817866#0(0"0(0#0#69"/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/MainWindow.xib4300885448#539"    cd "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/iPhoneGame.app/MainWindow.nib" "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/MainWindow.xib"0#
+
+CCpResource build/Debug-iphonesimulator/iPhoneGame.app/font1.fnt font1.fnt
+s286817861.131223
+e286817861.402812
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iPhoneGame.app/font1.fnt
+xfont1.fnt
+lSLF07#2@14"Copy font1.fnt286817861#286817861#0(0"0(0#0#64"/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/font1.fnt4300885448#510"    cd "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/font1.fnt" "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/iPhoneGame.app"0#
+
+CCpResource build/Debug-iphonesimulator/iPhoneGame.app/font1.png font1.png
+s286817861.133032
+e286817861.346604
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iPhoneGame.app/font1.png
+xfont1.png
+lSLF07#2@14"Copy font1.png286817861#286817861#0(0"0(0#0#64"/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/font1.png4300885448#510"    cd "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/font1.png" "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/iPhoneGame.app"0#
+
+CCpResource build/Debug-iphonesimulator/iPhoneGame.app/kkabfont.fnt kkabfont.fnt
+s286817861.138433
+e286817861.391253
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iPhoneGame.app/kkabfont.fnt
+xkkabfont.fnt
+lSLF07#2@17"Copy kkabfont.fnt286817861#286817861#0(0"0(0#0#67"/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/kkabfont.fnt4300885448#513"    cd "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/kkabfont.fnt" "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/iPhoneGame.app"0#
+
+CCpResource build/Debug-iphonesimulator/iPhoneGame.app/kkabfont.png kkabfont.png
+s286817861.175635
+e286817861.402953
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iPhoneGame.app/kkabfont.png
+xkkabfont.png
+lSLF07#2@17"Copy kkabfont.png286817861#286817861#0(0"0(0#0#67"/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/kkabfont.png4300885448#513"    cd "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/kkabfont.png" "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/iPhoneGame.app"0#
+
+CCpResource build/Debug-iphonesimulator/iPhoneGame.app/player.png player.png
+s286817861.122973
+e286817861.402680
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iPhoneGame.app/player.png
+xplayer.png
+lSLF07#2@15"Copy player.png286817861#286817861#0(0"0(0#0#65"/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/player.png4300885448#511"    cd "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/player.png" "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/iPhoneGame.app"0#
+
+CCpResource build/Debug-iphonesimulator/iPhoneGame.app/spritesheet16.gif spritesheet16.gif
+s286817861.129228
+e286817861.346378
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iPhoneGame.app/spritesheet16.gif
+xspritesheet16.gif
+lSLF07#2@22"Copy spritesheet16.gif286817861#286817861#0(0"0(0#0#72"/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/spritesheet16.gif4300885448#518"    cd "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/spritesheet16.gif" "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/iPhoneGame.app"0#
+
+CCpResource build/Debug-iphonesimulator/iPhoneGame.app/test1.fnt test1.fnt
+s286817861.134821
+e286817861.391120
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iPhoneGame.app/test1.fnt
+xtest1.fnt
+lSLF07#2@14"Copy test1.fnt286817861#286817861#0(0"0(0#0#64"/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/test1.fnt4300885448#510"    cd "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/test1.fnt" "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/iPhoneGame.app"0#
+
+CCpResource build/Debug-iphonesimulator/iPhoneGame.app/test1.png test1.png
+s286817861.136742
+e286817861.463335
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iPhoneGame.app/test1.png
+xtest1.png
+lSLF07#2@14"Copy test1.png286817861#286817861#0(0"0(0#0#64"/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/test1.png4300885448#510"    cd "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/test1.png" "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/iPhoneGame.app"0#
+
+CGenerateDSYMFile "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/iPhoneGame.app.dSYM" "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/iPhoneGame.app/iPhoneGame"
+s286817869.382328
+e286817869.461225
+r1
+xGenerateDSYMFile
+x/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/iPhoneGame.app.dSYM
+x/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/iPhoneGame.app/iPhoneGame
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/iPhoneGame.app.dSYM build/Debug-iphonesimulator/iPhoneGame.app/iPhoneGame286817869#286817869#0(0"0(0#0#108"/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/iPhoneGame.app/iPhoneGame4300885448#446"    cd "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/iPhoneGame.app/iPhoneGame" -o "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/iPhoneGame.app.dSYM"0#
+
+CLd "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/iPhoneGame.app/iPhoneGame" normal i386
+s286817869.012632
+e286817869.382224
+r1
+xLd
+x/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/iPhoneGame.app/iPhoneGame
+xnormal
+xi386
+lSLF07#2@113"Link /Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/iPhoneGame.app/iPhoneGame286817869#286817869#0(0"0(0#0#0"4300885448#1011"    cd "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk "-L/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator" "-F/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator" -filelist "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/Objects-normal/i386/iPhoneGame.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework OpenGLES -framework QuartzCore -framework CoreGraphics -o "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/iPhoneGame.app/iPhoneGame"0#
+
+CProcessInfoPlistFile "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/iPhoneGame.app/Info.plist" iPhoneGame-Info.plist
+s286817861.011025
+e286817861.031933
+r1
+xProcessInfoPlistFile
+x/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/iPhoneGame.app/Info.plist
+xiPhoneGame-Info.plist
+lSLF07#2@29"Process iPhoneGame-Info.plist286817861#286817861#0(0"0(0#0#76"/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/iPhoneGame-Info.plist4300885448#542"    cd "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iPhoneGame-Info.plist -genpkginfo "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/iPhoneGame.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/iPhoneGame.app/Info.plist"0#
+
+CProcessPCH /var/folders/IS/ISVBNtRIHrWkqp-B+BRHqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneGame_Prefix-fbxmpcppnvybowgyfehlucnhixmf/iPhoneGame_Prefix.pch.gch iPhoneGame_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s286817866.236436
+e286817867.983094
+r1
+xProcessPCH
+x/var/folders/IS/ISVBNtRIHrWkqp-B+BRHqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneGame_Prefix-fbxmpcppnvybowgyfehlucnhixmf/iPhoneGame_Prefix.pch.gch
+xiPhoneGame_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile iPhoneGame_Prefix.pch286817866#286817867#0(0"0(0#0#76"/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/iPhoneGame_Prefix.pch4300885448#1996"    cd "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/iPhoneGame-generated-files.hmap" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/iPhoneGame-own-target-headers.hmap" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/iPhoneGame-all-target-headers.hmap" -iquote "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/iPhoneGame-project-headers.hmap" "-F/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/include" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/DerivedSources/i386" "-I/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/iPhoneGame.build/Debug-iphonesimulator/iPhoneGame.build/DerivedSources" -c "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/iPhoneGame_Prefix.pch" -o /var/folders/IS/ISVBNtRIHrWkqp-B+BRHqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneGame_Prefix-fbxmpcppnvybowgyfehlucnhixmf/iPhoneGame_Prefix.pch.gch0#
+
+CTouch "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/iPhoneGame.app"
+s286817869.461319
+e286817869.465205
+r1
+xTouch
+x/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/iPhoneGame.app
+lSLF07#2@103"Touch /Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/iPhoneGame.app286817869#286817869#0(0"0(0#0#0"4300885448#317"    cd "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/build/Debug-iphonesimulator/iPhoneGame.app"0#
+

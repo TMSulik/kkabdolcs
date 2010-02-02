@@ -1,0 +1,444 @@
+TOGLGame
+v7
+r1
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS2.2.1.sdk
+c000000004A42FA5A0000000000000110
+t1245903450
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS2.2.1.sdk/ResourceRules.plist
+c00000000493E25EF00000000000001E5
+t1228809711
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS2.2.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004967D3CF0000000000215BA0
+t1231541199
+s2186144
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS2.2.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004967D4FC0000000000197700
+t1231541500
+s1668864
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS2.2.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000493E0BE40000000000001355
+t1228803044
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS2.2.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c00000000493E103E000000000000080F
+t1228804158
+s2063
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS2.2.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c00000000493E103E0000000000000A6F
+t1228804158
+s2671
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS2.2.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c00000000493E103E0000000000009366
+t1228804158
+s37734
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS2.2.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c00000000493E103E0000000000002350
+t1228804158
+s9040
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS2.2.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004967D63E00000000000416F0
+t1231541822
+s268016
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS2.2.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c00000000493E1083000000000000007D
+t1228804227
+s125
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS2.2.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004967D64700000000000B62F0
+t1231541831
+s746224
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS2.2.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004967C241000000000000067D
+t1231536705
+s1661
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS2.2.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004967D74500000000004724B0
+t1231542085
+s4662448
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS2.2.1.sdk/usr/include/mach/mach.h
+c00000000493DFCA30000000000001057
+t1228799139
+s4183
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS2.2.1.sdk/usr/include/mach/mach_time.h
+c00000000493DFA170000000000000746
+t1228798487
+s1862
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/AngelCodeFont.h
+c0000000049E2612E0000000000000837
+t1239572782
+s2103
+i<Foundation/Foundation.h>
+i"Image.h"
+i"CharDef.h"
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/AngelCodeFont.m
+c0000000049E278060000000000002BEC
+t1239578630
+s11244
+i"AngelCodeFont.h"
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/Animation.h
+c0000000049EA5D0800000000000004A6
+t1240096008
+s1190
+i<Foundation/Foundation.h>
+i"SpriteSheet.h"
+i"Frame.h"
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/Animation.m
+c0000000049EA5C4C0000000000000D5A
+t1240095820
+s3418
+i"Animation.h"
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/CharDef.h
+c0000000049E269090000000000000557
+t1239574793
+s1367
+i<Foundation/Foundation.h>
+i"Image.h"
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/CharDef.m
+c0000000049E2694600000000000003DB
+t1239574854
+s987
+i"CharDef.h"
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/Classes/EAGLView.h
+c0000000049EA5D4A0000000000000628
+t1240096074
+s1576
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"Texture2D.h"
+i"Image.h"
+i"SpriteSheet.h"
+i"AngelCodeFont.h"
+i"Animation.h"
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/Classes/EAGLView.m
+c0000000049EA5F3200000000000025E8
+t1240096562
+s9704
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGLDrawable.h>
+i<mach/mach.h>
+i<mach/mach_time.h>
+i"EAGLView.h"
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/Classes/OGLGameAppDelegate.h
+c0000000049E2570000000000000001F3
+t1239570176
+s499
+i<UIKit/UIKit.h>
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/Classes/OGLGameAppDelegate.m
+c0000000049E2575600000000000002C0
+t1239570262
+s704
+i"OGLGameAppDelegate.h"
+i"EAGLView.h"
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/Frame.h
+c0000000049EA5CC40000000000000201
+t1240095940
+s513
+i<Foundation/Foundation.h>
+i"Image.h"
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/Frame.m
+c0000000049EA5D0500000000000001B1
+t1240096005
+s433
+i"Frame.h"
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/Image.h
+c0000000049E4F13B0000000000001492
+t1239740731
+s5266
+i<Foundation/Foundation.h>
+i"Texture2D.h"
+i"OGLGameAppDelegate.h"
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/Image.m
+c0000000049E4F13B000000000000339B
+t1239740731
+s13211
+i"Image.h"
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/MainWindow.xib
+c0000000049BBEBC0000000000000238E
+t1237052352
+s9102
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/OGLGame_Prefix.pch
+c0000000049BBEBC000000000000000AF
+t1237052352
+s175
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/SpriteSheet.h
+c0000000049E25EAE00000000000005B6
+t1239572142
+s1462
+i<Foundation/Foundation.h>
+i"Image.h"
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/SpriteSheet.m
+c0000000049E25FBC00000000000010ED
+t1239572412
+s4333
+i"SpriteSheet.h"
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/Texture2D.h
+c0000000049BCF83900000000000012D5
+t1237121081
+s4821
+i<UIKit/UIKit.h>
+i<OpenGLES/ES1/gl.h>
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/Texture2D.m
+c0000000049BCF8FE0000000000002A19
+t1237121278
+s10777
+i<OpenGLES/ES1/glext.h>
+i"Texture2D.h"
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/build/Debug-iphoneos/OGLGame.app
+t2
+s0
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/build/Debug-iphoneos/OGLGame.app.dSYM
+t2
+s0
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/build/Debug-iphoneos/OGLGame.app/Info.plist
+t2
+s0
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/build/Debug-iphoneos/OGLGame.app/MainWindow.nib
+t2
+s0
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/build/Debug-iphoneos/OGLGame.app/OGLGame
+t2
+s0
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/build/Debug-iphoneos/OGLGame.app/PkgInfo
+t2
+s0
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/build/Debug-iphoneos/OGLGame.app/ResourceRules.plist
+t2
+s0
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/build/Debug-iphoneos/OGLGame.app/font1.fnt
+t2
+s0
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/build/Debug-iphoneos/OGLGame.app/font1.png
+t2
+s0
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/build/Debug-iphoneos/OGLGame.app/player.png
+t2
+s0
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/build/Debug-iphoneos/OGLGame.app/spritesheet16.gif
+t2
+s0
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/build/Debug-iphoneos/OGLGame.app/test1.fnt
+t2
+s0
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/build/Debug-iphoneos/OGLGame.app/test1.png
+t2
+s0
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/build/OGLGame.build/Debug-iphoneos/OGLGame.build/Objects-normal/armv6/AngelCodeFont.o
+t2
+s0
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/build/OGLGame.build/Debug-iphoneos/OGLGame.build/Objects-normal/armv6/Animation.o
+t2
+s0
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/build/OGLGame.build/Debug-iphoneos/OGLGame.build/Objects-normal/armv6/CharDef.o
+t2
+s0
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/build/OGLGame.build/Debug-iphoneos/OGLGame.build/Objects-normal/armv6/EAGLView.o
+t2
+s0
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/build/OGLGame.build/Debug-iphoneos/OGLGame.build/Objects-normal/armv6/Frame.o
+t2
+s0
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/build/OGLGame.build/Debug-iphoneos/OGLGame.build/Objects-normal/armv6/Image.o
+t2
+s0
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/build/OGLGame.build/Debug-iphoneos/OGLGame.build/Objects-normal/armv6/OGLGame.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/build/OGLGame.build/Debug-iphoneos/OGLGame.build/Objects-normal/armv6/OGLGameAppDelegate.o
+t2
+s0
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/build/OGLGame.build/Debug-iphoneos/OGLGame.build/Objects-normal/armv6/SpriteSheet.o
+t2
+s0
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/build/OGLGame.build/Debug-iphoneos/OGLGame.build/Objects-normal/armv6/Texture2D.o
+t2
+s0
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/build/OGLGame.build/Debug-iphoneos/OGLGame.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/font1.fnt
+c0000000049E26AC20000000000002CA2
+t1239575234
+s11426
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/font1.png
+c0000000049E26AC3000000000000392A
+t1239575235
+s14634
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/main.m
+c0000000049BBEBC0000000000000016D
+t1237052352
+s365
+i<UIKit/UIKit.h>
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/player.png
+c00000000498B73AA000000000000106A
+t1233875882
+s4202
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/spritesheet16.gif
+c00000000498B7E460000000000002071
+t1233878598
+s8305
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/test1.fnt
+c0000000049DB30820000000000002CE9
+t1239101570
+s11497
+
+N/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/test1.png
+c0000000049DB30840000000000018442
+t1239101572
+s99394
+
+N/var/folders/IS/ISVBNtRIHrWkqp-B+BRHqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OGLGame_Prefix-crtrkkyxihqqmscboqaggxilvpjx/OGLGame_Prefix.pch.gch
+t2
+s0
+
+NInfo.plist
+c0000000049BBEBC00000000000000386
+t1237052352
+s902
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies286780468#286780469#0(133"[BEROR]Code Sign error: The identity 'iPhone Developer' doesn't match any valid certificate/private key pair in the default keychain1(4@125"Code Sign error: The identity 'iPhone Developer' doesn't match any valid certificate/private key pair in the default keychain286780469#18446744073709551615#0#0(1@0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC build/OGLGame.build/Debug-iphoneos/OGLGame.build/Objects-normal/armv6/AngelCodeFont.o "/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/AngelCodeFont.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/OGLGame.build/Debug-iphoneos/OGLGame.build/Objects-normal/armv6/Animation.o "/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/Animation.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/OGLGame.build/Debug-iphoneos/OGLGame.build/Objects-normal/armv6/CharDef.o "/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/CharDef.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/OGLGame.build/Debug-iphoneos/OGLGame.build/Objects-normal/armv6/EAGLView.o "/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/Classes/EAGLView.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/OGLGame.build/Debug-iphoneos/OGLGame.build/Objects-normal/armv6/Frame.o "/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/Frame.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/OGLGame.build/Debug-iphoneos/OGLGame.build/Objects-normal/armv6/Image.o "/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/Image.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/OGLGame.build/Debug-iphoneos/OGLGame.build/Objects-normal/armv6/OGLGameAppDelegate.o "/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/Classes/OGLGameAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/OGLGame.build/Debug-iphoneos/OGLGame.build/Objects-normal/armv6/SpriteSheet.o "/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/SpriteSheet.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/OGLGame.build/Debug-iphoneos/OGLGame.build/Objects-normal/armv6/Texture2D.o "/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/Texture2D.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/OGLGame.build/Debug-iphoneos/OGLGame.build/Objects-normal/armv6/main.o "/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileXIB "/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/MainWindow.xib"
+r0
+
+CCopyPNGFile "/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/build/Debug-iphoneos/OGLGame.app/font1.png" font1.png
+r0
+
+CCopyPNGFile "/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/build/Debug-iphoneos/OGLGame.app/player.png" player.png
+r0
+
+CCopyPNGFile "/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/build/Debug-iphoneos/OGLGame.app/test1.png" test1.png
+r0
+
+CCpResource build/Debug-iphoneos/OGLGame.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS2.2.1.sdk/ResourceRules.plist
+r0
+
+CCpResource build/Debug-iphoneos/OGLGame.app/font1.fnt font1.fnt
+r0
+
+CCpResource build/Debug-iphoneos/OGLGame.app/spritesheet16.gif spritesheet16.gif
+r0
+
+CCpResource build/Debug-iphoneos/OGLGame.app/test1.fnt test1.fnt
+r0
+
+CGenerateDSYMFile "/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/build/Debug-iphoneos/OGLGame.app.dSYM" "/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/build/Debug-iphoneos/OGLGame.app/OGLGame"
+r0
+
+CLd "/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/build/Debug-iphoneos/OGLGame.app/OGLGame" normal armv6
+r0
+
+CProcessInfoPlistFile "/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/build/Debug-iphoneos/OGLGame.app/Info.plist" Info.plist
+r0
+
+CProcessPCH /var/folders/IS/ISVBNtRIHrWkqp-B+BRHqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OGLGame_Prefix-crtrkkyxihqqmscboqaggxilvpjx/OGLGame_Prefix.pch.gch OGLGame_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CTouch "/Users/kkabdol/Desktop/iPhone/Game Tutorial/OGLGame Tutorial 5/build/Debug-iphoneos/OGLGame.app"
+r0
+

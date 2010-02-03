@@ -1,0 +1,149 @@
+// !$*UTF8*$!
+{
+	186370F40F9297A40042D30E /* AngelCodeFont.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {644, 6176}}";
+			sepNavSelRange = "{2340, 0}";
+			sepNavVisRange = "{1839, 1164}";
+		};
+	};
+	1875B7C40FBDCB840024200A /* SingletonGameState.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {644, 574}}";
+			sepNavSelRange = "{184, 250}";
+			sepNavVisRange = "{0, 434}";
+		};
+	};
+	1875B7C50FBDCB840024200A /* SingletonGameState.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {644, 574}}";
+			sepNavSelRange = "{88, 0}";
+			sepNavVisRange = "{0, 571}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* OGLGame */ = {
+		activeExec = 0;
+		executables = (
+			25C13B0D1119830A00722F27 /* OGLGame */,
+		);
+	};
+	25C13B0D1119830A00722F27 /* OGLGame */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = OGLGame;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	25C13B161119832800722F27 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	25C13B171119832800722F27 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	25C13C3C11198ADF00722F27 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1875B7C40FBDCB840024200A /* SingletonGameState.h */;
+		name = "SingletonGameState.h: 10";
+		rLen = 250;
+		rLoc = 184;
+		rType = 0;
+		vrLen = 434;
+		vrLoc = 0;
+	};
+	25C13C3D11198ADF00722F27 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1875B7C50FBDCB840024200A /* SingletonGameState.m */;
+		name = "SingletonGameState.m: 6";
+		rLen = 0;
+		rLoc = 88;
+		rType = 0;
+		vrLen = 571;
+		vrLoc = 0;
+	};
+	25C13C3E11198ADF00722F27 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 186370F40F9297A40042D30E /* AngelCodeFont.m */;
+	};
+	25C13C3F11198ADF00722F27 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 186370F40F9297A40042D30E /* AngelCodeFont.m */;
+		name = "AngelCodeFont.m: 59";
+		rLen = 0;
+		rLoc = 2340;
+		rType = 0;
+		vrLen = 1164;
+		vrLoc = 1839;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 25C13B0D1119830A00722F27 /* OGLGame */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* OGLGame */;
+		codeSenseManager = 25C13B171119832800722F27 /* Code sense */;
+		executables = (
+			25C13B0D1119830A00722F27 /* OGLGame */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					466,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 286884618;
+			PBXWorkspaceStateSaveDate = 286884618;
+		};
+		perUserProjectItems = {
+			25C13C3C11198ADF00722F27 /* PBXTextBookmark */ = 25C13C3C11198ADF00722F27 /* PBXTextBookmark */;
+			25C13C3D11198ADF00722F27 /* PBXTextBookmark */ = 25C13C3D11198ADF00722F27 /* PBXTextBookmark */;
+			25C13C3E11198ADF00722F27 /* PBXBookmark */ = 25C13C3E11198ADF00722F27 /* PBXBookmark */;
+			25C13C3F11198ADF00722F27 /* PBXTextBookmark */ = 25C13C3F11198ADF00722F27 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 25C13B161119832800722F27 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}

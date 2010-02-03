@@ -1,0 +1,139 @@
+// !$*UTF8*$!
+{
+	185C82A60FCA10E00034936F /* ParticleEmitter.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {816, 6128}}";
+			sepNavSelRange = "{13223, 0}";
+			sepNavVisRange = "{12558, 879}";
+		};
+	};
+	1D3623250D0F684500981E51 /* OGLGameAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {816, 656}}";
+			sepNavSelRange = "{452, 95}";
+			sepNavVisRange = "{3, 619}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* OGLGame */ = {
+		activeExec = 0;
+		executables = (
+			8F42E0721059283400D35B25 /* OGLGame */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8F42E0721059283400D35B25 /* OGLGame */;
+		activeSDKPreference = iphonesimulator3.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* OGLGame */;
+		codeSenseManager = 8F42E0851059284200D35B25 /* Code sense */;
+		executables = (
+			8F42E0721059283400D35B25 /* OGLGame */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					638,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 274278791;
+			PBXWorkspaceStateSaveDate = 274278791;
+		};
+		perUserProjectItems = {
+			8F42E0881059287500D35B25 /* PBXTextBookmark */ = 8F42E0881059287500D35B25 /* PBXTextBookmark */;
+			8F42E099105928BF00D35B25 /* PBXTextBookmark */ = 8F42E099105928BF00D35B25 /* PBXTextBookmark */;
+			8F42E0DB1059299200D35B25 /* PBXTextBookmark */ = 8F42E0DB1059299200D35B25 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8F42E0841059284200D35B25 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8F42E0721059283400D35B25 /* OGLGame */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = OGLGame;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	8F42E0841059284200D35B25 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8F42E0851059284200D35B25 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8F42E0881059287500D35B25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 185C82A60FCA10E00034936F /* ParticleEmitter.m */;
+		name = "ParticleEmitter.m: 348";
+		rLen = 0;
+		rLoc = 13223;
+		rType = 0;
+		vrLen = 879;
+		vrLoc = 12558;
+	};
+	8F42E099105928BF00D35B25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* OGLGameAppDelegate.m */;
+		name = "OGLGameAppDelegate.m: 20";
+		rLen = 95;
+		rLoc = 452;
+		rType = 0;
+		vrLen = 622;
+		vrLoc = 0;
+	};
+	8F42E0DB1059299200D35B25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* OGLGameAppDelegate.m */;
+		name = "OGLGameAppDelegate.m: 20";
+		rLen = 95;
+		rLoc = 452;
+		rType = 0;
+		vrLen = 619;
+		vrLoc = 3;
+	};
+}

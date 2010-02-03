@@ -1,0 +1,181 @@
+//
+//  EAGLView.m
+//  iPhoneGame
+//
+//  Created by Seonghyeon Choe on 1/21/10.
+//  Copyright kkabdol 2010. All rights reserved.
+//
+
+#import "EAGLView.h"
+#import "ES1Renderer.h"
+
+@interface EAGLView ()
+- (void) mainGameLoop;
+@end
+
+@implementation EAGLView
+
+@synthesize animating;// will be removed
+@dynamic animationFrameInterval;// will be removed
+
+// You must implement this method
++ (Class) layerClass
+{
+    return [CAEAGLLayer class];
+}
+
+//The GL view is stored in the nib file. When it's unarchived it's sent -initWithCoder:
+- (id) initWithCoder:(NSCoder*)coder
+{    
+    if ((self = [super initWithCoder:coder]))
+	{
+        // Get the layer
+        CAEAGLLayer *eaglLayer = (CAEAGLLayer *)self.layer;
+        
+        eaglLayer.opaque = TRUE;
+        eaglLayer.drawableProperties = [NSDictionary dictionaryWithObjectsAndKeys:
+                                        [NSNumber numberWithBool:FALSE], kEAGLDrawablePropertyRetainedBacking, kEAGLColorFormatRGBA8, kEAGLDrawablePropertyColorFormat, nil];
+		
+		// only use OpenGLES1
+		renderer = [[ES1Renderer alloc] init];
+		
+		if (!renderer)
+		{
+			[self release];
+			return nil;
+		}
+		
+		animating = FALSE;
+		displayLinkSupported = FALSE;
+		animationFrameInterval = 1;
+		displayLink = nil;
+		animationTimer = nil;
+		
+		// A system version of 3.1 or greater is required to use CADisplayLink. The NSTimer
+		// class is used as fallback when it isn't available.
+		NSString *reqSysVer = @"3.1";
+		NSString *currSysVer = [[UIDevice currentDevice] systemVersion];
+		if ([currSysVer compare:reqSysVer options:NSNumericSearch] != NSOrderedAscending)
+			displayLinkSupported = TRUE;
+		
+		lastTime = CFAbsoluteTimeGetCurrent();
+    }
+	
+    return self;
+}
+
+- (void) mainGameLoop {
+	
+	CFTimeInterval	time;
+	float			delta;
+	
+	// Create an autorelease pool which can be used within this tight loop.  This is a memory
+	// leak when using NSString stringWithFormat in the renderScene method.  Adding a specific
+	// autorelease pool stops the memory leak
+	NSAutoreleasePool *pool = [[NSAutoreleasePool alloc] init];
+	
+	// I found this trick on iDevGames.com.  The command below pumps events which take place
+	// such as screen touches etc so they are handled and then runs our code.  This means
+	// that we are always in sync with VBL rather than an NSTimer and VBL being out of sync
+	while(CFRunLoopRunInMode(kCFRunLoopDefaultMode, 0.002, TRUE) == kCFRunLoopRunHandledSource);
+	
+	// Get the current time and calculate the delta between the lasttime and now
+	// We multiply the delta by 1000 to give us milliseconds		
+	time = CFAbsoluteTimeGetCurrent();
+	delta = (time - lastTime) * 1000;
+	
+	// Go and update the game logic and then render the scene
+	[renderer updateScene:delta];
+	[renderer render];
+	
+	// Set the lasttime to the current time ready for the next pass
+	lastTime = time;
+	
+	// Release the autorelease pool so that it is drained
+	[pool release];
+}
+
+- (void) drawView:(id)sender
+{
+    [renderer render];
+}
+
+- (void) layoutSubviews
+{
+	[renderer resizeFromLayer:(CAEAGLLayer*)self.layer];
+    [self drawView:nil];
+}
+
+- (NSInteger) animationFrameInterval
+{
+	return animationFrameInterval;
+}
+
+- (void) setAnimationFrameInterval:(NSInteger)frameInterval
+{
+	// Frame interval defines how many display frames must pass between each time the
+	// display link fires. The display link will only fire 30 times a second when the
+	// frame internal is two on a display that refreshes 60 times a second. The default
+	// frame interval setting of one will fire 60 times a second when the display refreshes
+	// at 60 times a second. A frame interval setting of less than one results in undefined
+	// behavior.
+	if (frameInterval >= 1)
+	{
+		animationFrameInterval = frameInterval;
+		
+		if (animating)
+		{
+			[self stopAnimation];
+			[self startAnimation];
+		}
+	}
+}
+
+- (void) startAnimation
+{
+	if (!animating)
+	{
+		if (displayLinkSupported)
+		{
+			// CADisplayLink is API new to iPhone SDK 3.1. Compiling against earlier versions will result in a warning, but can be dismissed
+			// if the system version runtime check for CADisplayLink exists in -initWithCoder:. The runtime check ensures this code will
+			// not be called in system versions earlier than 3.1.
+
+			displayLink = [NSClassFromString(@"CADisplayLink") displayLinkWithTarget:self selector:@selector(mainGameLoop)];
+			[displayLink setFrameInterval:animationFrameInterval];
+			[displayLink addToRunLoop:[NSRunLoop currentRunLoop] forMode:NSDefaultRunLoopMode];
+		}
+		else
+			animationTimer = [NSTimer scheduledTimerWithTimeInterval:(NSTimeInterval)((1.0 / 60.0) * animationFrameInterval) target:self selector:@selector(mainGameLoop) userInfo:nil repeats:TRUE];
+		
+		animating = TRUE;
+	}
+}
+
+- (void)stopAnimation
+{
+	if (animating)
+	{
+		if (displayLinkSupported)
+		{
+			[displayLink invalidate];
+			displayLink = nil;
+		}
+		else
+		{
+			[animationTimer invalidate];
+			animationTimer = nil;
+		}
+		
+		animating = FALSE;
+	}
+}
+
+- (void) dealloc
+{
+    [renderer release];
+	
+    [super dealloc];
+}
+
+@end

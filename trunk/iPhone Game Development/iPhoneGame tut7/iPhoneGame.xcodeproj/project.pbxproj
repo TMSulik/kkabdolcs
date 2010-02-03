@@ -1,0 +1,490 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* iPhoneGameAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* iPhoneGameAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		2514C27210084DB100A42282 /* ES1Renderer.m in Sources */ = {isa = PBXBuildFile; fileRef = 2514C26E10084DB100A42282 /* ES1Renderer.m */; };
+		254DBA49110DD0F50023ADDF /* SpriteSheet.m in Sources */ = {isa = PBXBuildFile; fileRef = 254DBA48110DD0F50023ADDF /* SpriteSheet.m */; };
+		2585FC5511107820006ED1B3 /* spritesheet16.gif in Resources */ = {isa = PBXBuildFile; fileRef = 2585FC5411107820006ED1B3 /* spritesheet16.gif */; };
+		258CEEB611095B3C0033580B /* Texture2D.m in Sources */ = {isa = PBXBuildFile; fileRef = 258CEEB511095B3C0033580B /* Texture2D.m */; };
+		258CEEBB11095B840033580B /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 258CEEBA11095B840033580B /* CoreGraphics.framework */; };
+		258CEF0411095D750033580B /* player.png in Resources */ = {isa = PBXBuildFile; fileRef = 258CEF0311095D750033580B /* player.png */; };
+		258D9937111360EC002557C2 /* AngelCodeFont.m in Sources */ = {isa = PBXBuildFile; fileRef = 258D9936111360EC002557C2 /* AngelCodeFont.m */; };
+		258D994F11136452002557C2 /* font1.fnt in Resources */ = {isa = PBXBuildFile; fileRef = 258D994D11136452002557C2 /* font1.fnt */; };
+		258D995011136452002557C2 /* font1.png in Resources */ = {isa = PBXBuildFile; fileRef = 258D994E11136452002557C2 /* font1.png */; };
+		258D99531113648B002557C2 /* test1.fnt in Resources */ = {isa = PBXBuildFile; fileRef = 258D99511113648B002557C2 /* test1.fnt */; };
+		258D99541113648B002557C2 /* test1.png in Resources */ = {isa = PBXBuildFile; fileRef = 258D99521113648B002557C2 /* test1.png */; };
+		258D995911136DD6002557C2 /* CharDef.m in Sources */ = {isa = PBXBuildFile; fileRef = 258D995811136DD6002557C2 /* CharDef.m */; };
+		258D997811136F5C002557C2 /* kkabfont.fnt in Resources */ = {isa = PBXBuildFile; fileRef = 258D997611136F5C002557C2 /* kkabfont.fnt */; };
+		258D997911136F5C002557C2 /* kkabfont.png in Resources */ = {isa = PBXBuildFile; fileRef = 258D997711136F5C002557C2 /* kkabfont.png */; };
+		25B7B5B51116C82F00404E7F /* Animation.m in Sources */ = {isa = PBXBuildFile; fileRef = 25B7B5B41116C82F00404E7F /* Animation.m */; };
+		25C13A731119633900722F27 /* testmap.tmx in Resources */ = {isa = PBXBuildFile; fileRef = 25C13A711119633900722F27 /* testmap.tmx */; };
+		25C13A741119633900722F27 /* tiles.png in Resources */ = {isa = PBXBuildFile; fileRef = 25C13A721119633900722F27 /* tiles.png */; };
+		25C13ABE1119737E00722F27 /* gogo.tmx in Resources */ = {isa = PBXBuildFile; fileRef = 25C13ABC1119737E00722F27 /* gogo.tmx */; };
+		25C13ABF1119737E00722F27 /* tmw_desert_spacing.png in Resources */ = {isa = PBXBuildFile; fileRef = 25C13ABD1119737E00722F27 /* tmw_desert_spacing.png */; };
+		25C13AD3111976D800722F27 /* hello.tmx in Resources */ = {isa = PBXBuildFile; fileRef = 25C13AD2111976D800722F27 /* hello.tmx */; };
+		25C13B26111983DE00722F27 /* SingletonGameState.m in Sources */ = {isa = PBXBuildFile; fileRef = 25C13B25111983DE00722F27 /* SingletonGameState.m */; };
+		25C285391109881F002DEC41 /* Image.m in Sources */ = {isa = PBXBuildFile; fileRef = 25C285381109881F002DEC41 /* Image.m */; };
+		25D0370011187C83009A18F2 /* Frame.m in Sources */ = {isa = PBXBuildFile; fileRef = 25D036FF11187C83009A18F2 /* Frame.m */; };
+		25D0378011189260009A18F2 /* DDXMLDocument.m in Sources */ = {isa = PBXBuildFile; fileRef = 25D0377611189260009A18F2 /* DDXMLDocument.m */; };
+		25D0378111189260009A18F2 /* DDXMLElement.m in Sources */ = {isa = PBXBuildFile; fileRef = 25D0377811189260009A18F2 /* DDXMLElement.m */; };
+		25D0378211189260009A18F2 /* DDXMLElementAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 25D0377A11189260009A18F2 /* DDXMLElementAdditions.m */; };
+		25D0378311189260009A18F2 /* DDXMLNode.m in Sources */ = {isa = PBXBuildFile; fileRef = 25D0377C11189260009A18F2 /* DDXMLNode.m */; };
+		25D0378411189260009A18F2 /* NSStringAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 25D0377F11189260009A18F2 /* NSStringAdditions.m */; };
+		25D0378A111892B9009A18F2 /* Layer.m in Sources */ = {isa = PBXBuildFile; fileRef = 25D03789111892B9009A18F2 /* Layer.m */; };
+		25D0378D111892CC009A18F2 /* TileSet.m in Sources */ = {isa = PBXBuildFile; fileRef = 25D0378C111892CC009A18F2 /* TileSet.m */; };
+		25D03790111892E3009A18F2 /* TiledMap.m in Sources */ = {isa = PBXBuildFile; fileRef = 25D0378F111892E3009A18F2 /* TiledMap.m */; };
+		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
+		28FD14FE0DC6FC130079059D /* EAGLView.m in Sources */ = {isa = PBXBuildFile; fileRef = 28FD14FD0DC6FC130079059D /* EAGLView.m */; };
+		28FD15000DC6FC520079059D /* OpenGLES.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 28FD14FF0DC6FC520079059D /* OpenGLES.framework */; };
+		28FD15080DC6FC5B0079059D /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 28FD15070DC6FC5B0079059D /* QuartzCore.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* iPhoneGameAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = iPhoneGameAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* iPhoneGameAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = iPhoneGameAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* iPhoneGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iPhoneGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		2514C26D10084DB100A42282 /* ES1Renderer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ES1Renderer.h; sourceTree = "<group>"; };
+		2514C26E10084DB100A42282 /* ES1Renderer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ES1Renderer.m; sourceTree = "<group>"; };
+		2514C27110084DB100A42282 /* ESRenderer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ESRenderer.h; sourceTree = "<group>"; };
+		254DBA47110DD0F50023ADDF /* SpriteSheet.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SpriteSheet.h; sourceTree = "<group>"; };
+		254DBA48110DD0F50023ADDF /* SpriteSheet.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SpriteSheet.m; sourceTree = "<group>"; };
+		2585FC5411107820006ED1B3 /* spritesheet16.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = spritesheet16.gif; sourceTree = "<group>"; };
+		258CEEB411095B3C0033580B /* Texture2D.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Texture2D.h; sourceTree = "<group>"; };
+		258CEEB511095B3C0033580B /* Texture2D.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Texture2D.m; sourceTree = "<group>"; wrapsLines = 1; };
+		258CEEBA11095B840033580B /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		258CEF0311095D750033580B /* player.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = player.png; sourceTree = "<group>"; };
+		258D9935111360EC002557C2 /* AngelCodeFont.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AngelCodeFont.h; sourceTree = "<group>"; };
+		258D9936111360EC002557C2 /* AngelCodeFont.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AngelCodeFont.m; sourceTree = "<group>"; };
+		258D994D11136452002557C2 /* font1.fnt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = font1.fnt; sourceTree = "<group>"; };
+		258D994E11136452002557C2 /* font1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = font1.png; sourceTree = "<group>"; };
+		258D99511113648B002557C2 /* test1.fnt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = test1.fnt; sourceTree = "<group>"; };
+		258D99521113648B002557C2 /* test1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = test1.png; sourceTree = "<group>"; };
+		258D995711136DD6002557C2 /* CharDef.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CharDef.h; sourceTree = "<group>"; };
+		258D995811136DD6002557C2 /* CharDef.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CharDef.m; sourceTree = "<group>"; };
+		258D997611136F5C002557C2 /* kkabfont.fnt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = kkabfont.fnt; sourceTree = "<group>"; };
+		258D997711136F5C002557C2 /* kkabfont.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kkabfont.png; sourceTree = "<group>"; };
+		25B7B5B31116C82F00404E7F /* Animation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Animation.h; sourceTree = "<group>"; };
+		25B7B5B41116C82F00404E7F /* Animation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Animation.m; sourceTree = "<group>"; };
+		25C13A711119633900722F27 /* testmap.tmx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = testmap.tmx; sourceTree = "<group>"; };
+		25C13A721119633900722F27 /* tiles.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tiles.png; sourceTree = "<group>"; };
+		25C13ABC1119737E00722F27 /* gogo.tmx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = gogo.tmx; sourceTree = "<group>"; };
+		25C13ABD1119737E00722F27 /* tmw_desert_spacing.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tmw_desert_spacing.png; sourceTree = "<group>"; };
+		25C13AD2111976D800722F27 /* hello.tmx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = hello.tmx; sourceTree = "<group>"; };
+		25C13B24111983DE00722F27 /* SingletonGameState.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SingletonGameState.h; sourceTree = "<group>"; };
+		25C13B25111983DE00722F27 /* SingletonGameState.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SingletonGameState.m; sourceTree = "<group>"; };
+		25C285371109881F002DEC41 /* Image.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Image.h; sourceTree = "<group>"; };
+		25C285381109881F002DEC41 /* Image.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Image.m; sourceTree = "<group>"; };
+		25D036FE11187C83009A18F2 /* Frame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Frame.h; sourceTree = "<group>"; };
+		25D036FF11187C83009A18F2 /* Frame.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Frame.m; sourceTree = "<group>"; };
+		25D0377411189260009A18F2 /* DDXML.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DDXML.h; sourceTree = "<group>"; };
+		25D0377511189260009A18F2 /* DDXMLDocument.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DDXMLDocument.h; sourceTree = "<group>"; };
+		25D0377611189260009A18F2 /* DDXMLDocument.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DDXMLDocument.m; sourceTree = "<group>"; };
+		25D0377711189260009A18F2 /* DDXMLElement.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DDXMLElement.h; sourceTree = "<group>"; };
+		25D0377811189260009A18F2 /* DDXMLElement.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DDXMLElement.m; sourceTree = "<group>"; };
+		25D0377911189260009A18F2 /* DDXMLElementAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DDXMLElementAdditions.h; sourceTree = "<group>"; };
+		25D0377A11189260009A18F2 /* DDXMLElementAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DDXMLElementAdditions.m; sourceTree = "<group>"; };
+		25D0377B11189260009A18F2 /* DDXMLNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DDXMLNode.h; sourceTree = "<group>"; };
+		25D0377C11189260009A18F2 /* DDXMLNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DDXMLNode.m; sourceTree = "<group>"; };
+		25D0377D11189260009A18F2 /* DDXMLPrivate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DDXMLPrivate.h; sourceTree = "<group>"; };
+		25D0377E11189260009A18F2 /* NSStringAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NSStringAdditions.h; sourceTree = "<group>"; };
+		25D0377F11189260009A18F2 /* NSStringAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NSStringAdditions.m; sourceTree = "<group>"; };
+		25D03788111892B9009A18F2 /* Layer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Layer.h; sourceTree = "<group>"; };
+		25D03789111892B9009A18F2 /* Layer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Layer.m; sourceTree = "<group>"; };
+		25D0378B111892CC009A18F2 /* TileSet.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TileSet.h; sourceTree = "<group>"; };
+		25D0378C111892CC009A18F2 /* TileSet.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TileSet.m; sourceTree = "<group>"; };
+		25D0378E111892E3009A18F2 /* TiledMap.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TiledMap.h; sourceTree = "<group>"; };
+		25D0378F111892E3009A18F2 /* TiledMap.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TiledMap.m; sourceTree = "<group>"; };
+		28AD733E0D9D9553002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		28FD14FC0DC6FC130079059D /* EAGLView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EAGLView.h; sourceTree = "<group>"; };
+		28FD14FD0DC6FC130079059D /* EAGLView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EAGLView.m; sourceTree = "<group>"; };
+		28FD14FF0DC6FC520079059D /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
+		28FD15070DC6FC5B0079059D /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* iPhoneGame_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = iPhoneGame_Prefix.pch; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* iPhoneGame-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "iPhoneGame-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				28FD15000DC6FC520079059D /* OpenGLES.framework in Frameworks */,
+				28FD15080DC6FC5B0079059D /* QuartzCore.framework in Frameworks */,
+				258CEEBB11095B840033580B /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				2514C26D10084DB100A42282 /* ES1Renderer.h */,
+				2514C26E10084DB100A42282 /* ES1Renderer.m */,
+				2514C27110084DB100A42282 /* ESRenderer.h */,
+				28FD14FC0DC6FC130079059D /* EAGLView.h */,
+				28FD14FD0DC6FC130079059D /* EAGLView.m */,
+				1D3623240D0F684500981E51 /* iPhoneGameAppDelegate.h */,
+				1D3623250D0F684500981E51 /* iPhoneGameAppDelegate.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* iPhoneGame.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		258CEEB311095B1D0033580B /* OpenGL ES Support */ = {
+			isa = PBXGroup;
+			children = (
+				258CEEB411095B3C0033580B /* Texture2D.h */,
+				258CEEB511095B3C0033580B /* Texture2D.m */,
+			);
+			name = "OpenGL ES Support";
+			sourceTree = "<group>";
+		};
+		258CEF0211095D680033580B /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				25C13AD2111976D800722F27 /* hello.tmx */,
+				25C13ABC1119737E00722F27 /* gogo.tmx */,
+				25C13ABD1119737E00722F27 /* tmw_desert_spacing.png */,
+				25C13A711119633900722F27 /* testmap.tmx */,
+				25C13A721119633900722F27 /* tiles.png */,
+				2585FC5411107820006ED1B3 /* spritesheet16.gif */,
+				258CEF0311095D750033580B /* player.png */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
+		258D9934111360A8002557C2 /* AngelCodeFont */ = {
+			isa = PBXGroup;
+			children = (
+				258D9935111360EC002557C2 /* AngelCodeFont.h */,
+				258D9936111360EC002557C2 /* AngelCodeFont.m */,
+				258D995711136DD6002557C2 /* CharDef.h */,
+				258D995811136DD6002557C2 /* CharDef.m */,
+			);
+			name = AngelCodeFont;
+			sourceTree = "<group>";
+		};
+		258D994C1113642A002557C2 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				258D997611136F5C002557C2 /* kkabfont.fnt */,
+				258D997711136F5C002557C2 /* kkabfont.png */,
+				258D99511113648B002557C2 /* test1.fnt */,
+				258D99521113648B002557C2 /* test1.png */,
+				258D994D11136452002557C2 /* font1.fnt */,
+				258D994E11136452002557C2 /* font1.png */,
+			);
+			name = Fonts;
+			sourceTree = "<group>";
+		};
+		25B7B5B01116C7F300404E7F /* Animation */ = {
+			isa = PBXGroup;
+			children = (
+				25B7B5B31116C82F00404E7F /* Animation.h */,
+				25B7B5B41116C82F00404E7F /* Animation.m */,
+				25D036FE11187C83009A18F2 /* Frame.h */,
+				25D036FF11187C83009A18F2 /* Frame.m */,
+			);
+			name = Animation;
+			sourceTree = "<group>";
+		};
+		25C13B23111983AF00722F27 /* Common */ = {
+			isa = PBXGroup;
+			children = (
+				25C13B24111983DE00722F27 /* SingletonGameState.h */,
+				25C13B25111983DE00722F27 /* SingletonGameState.m */,
+			);
+			name = Common;
+			sourceTree = "<group>";
+		};
+		25C285361109880E002DEC41 /* Engine */ = {
+			isa = PBXGroup;
+			children = (
+				25D03787111892A6009A18F2 /* TiledMap */,
+				25B7B5B01116C7F300404E7F /* Animation */,
+				258D9934111360A8002557C2 /* AngelCodeFont */,
+				25C285371109881F002DEC41 /* Image.h */,
+				25C285381109881F002DEC41 /* Image.m */,
+				254DBA47110DD0F50023ADDF /* SpriteSheet.h */,
+				254DBA48110DD0F50023ADDF /* SpriteSheet.m */,
+			);
+			name = Engine;
+			sourceTree = "<group>";
+		};
+		25D03771111891CA009A18F2 /* DDXML */ = {
+			isa = PBXGroup;
+			children = (
+				25D0377411189260009A18F2 /* DDXML.h */,
+				25D0377511189260009A18F2 /* DDXMLDocument.h */,
+				25D0377611189260009A18F2 /* DDXMLDocument.m */,
+				25D0377711189260009A18F2 /* DDXMLElement.h */,
+				25D0377811189260009A18F2 /* DDXMLElement.m */,
+				25D0377911189260009A18F2 /* DDXMLElementAdditions.h */,
+				25D0377A11189260009A18F2 /* DDXMLElementAdditions.m */,
+				25D0377B11189260009A18F2 /* DDXMLNode.h */,
+				25D0377C11189260009A18F2 /* DDXMLNode.m */,
+				25D0377D11189260009A18F2 /* DDXMLPrivate.h */,
+				25D0377E11189260009A18F2 /* NSStringAdditions.h */,
+				25D0377F11189260009A18F2 /* NSStringAdditions.m */,
+			);
+			name = DDXML;
+			sourceTree = "<group>";
+		};
+		25D03787111892A6009A18F2 /* TiledMap */ = {
+			isa = PBXGroup;
+			children = (
+				25D03788111892B9009A18F2 /* Layer.h */,
+				25D03789111892B9009A18F2 /* Layer.m */,
+				25D0378B111892CC009A18F2 /* TileSet.h */,
+				25D0378C111892CC009A18F2 /* TileSet.m */,
+				25D0378E111892E3009A18F2 /* TiledMap.h */,
+				25D0378F111892E3009A18F2 /* TiledMap.m */,
+			);
+			name = TiledMap;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				25C13B23111983AF00722F27 /* Common */,
+				25D03771111891CA009A18F2 /* DDXML */,
+				258D994C1113642A002557C2 /* Fonts */,
+				25C285361109880E002DEC41 /* Engine */,
+				258CEF0211095D680033580B /* Images */,
+				258CEEB311095B1D0033580B /* OpenGL ES Support */,
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* iPhoneGame_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
+				8D1107310486CEB800E47090 /* iPhoneGame-Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				28FD15070DC6FC5B0079059D /* QuartzCore.framework */,
+				28FD14FF0DC6FC520079059D /* OpenGLES.framework */,
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				258CEEBA11095B840033580B /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* iPhoneGame */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "iPhoneGame" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = iPhoneGame;
+			productName = iPhoneGame;
+			productReference = 1D6058910D05DD3D006BFB54 /* iPhoneGame.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "iPhoneGame" */;
+			compatibilityVersion = "Xcode 3.1";
+			hasScannedForEncodings = 1;
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* iPhoneGame */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
+				258CEF0411095D750033580B /* player.png in Resources */,
+				2585FC5511107820006ED1B3 /* spritesheet16.gif in Resources */,
+				258D994F11136452002557C2 /* font1.fnt in Resources */,
+				258D995011136452002557C2 /* font1.png in Resources */,
+				258D99531113648B002557C2 /* test1.fnt in Resources */,
+				258D99541113648B002557C2 /* test1.png in Resources */,
+				258D997811136F5C002557C2 /* kkabfont.fnt in Resources */,
+				258D997911136F5C002557C2 /* kkabfont.png in Resources */,
+				25C13A731119633900722F27 /* testmap.tmx in Resources */,
+				25C13A741119633900722F27 /* tiles.png in Resources */,
+				25C13ABE1119737E00722F27 /* gogo.tmx in Resources */,
+				25C13ABF1119737E00722F27 /* tmw_desert_spacing.png in Resources */,
+				25C13AD3111976D800722F27 /* hello.tmx in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* iPhoneGameAppDelegate.m in Sources */,
+				28FD14FE0DC6FC130079059D /* EAGLView.m in Sources */,
+				2514C27210084DB100A42282 /* ES1Renderer.m in Sources */,
+				258CEEB611095B3C0033580B /* Texture2D.m in Sources */,
+				25C285391109881F002DEC41 /* Image.m in Sources */,
+				254DBA49110DD0F50023ADDF /* SpriteSheet.m in Sources */,
+				258D9937111360EC002557C2 /* AngelCodeFont.m in Sources */,
+				258D995911136DD6002557C2 /* CharDef.m in Sources */,
+				25B7B5B51116C82F00404E7F /* Animation.m in Sources */,
+				25D0370011187C83009A18F2 /* Frame.m in Sources */,
+				25D0378011189260009A18F2 /* DDXMLDocument.m in Sources */,
+				25D0378111189260009A18F2 /* DDXMLElement.m in Sources */,
+				25D0378211189260009A18F2 /* DDXMLElementAdditions.m in Sources */,
+				25D0378311189260009A18F2 /* DDXMLNode.m in Sources */,
+				25D0378411189260009A18F2 /* NSStringAdditions.m in Sources */,
+				25D0378A111892B9009A18F2 /* Layer.m in Sources */,
+				25D0378D111892CC009A18F2 /* TileSet.m in Sources */,
+				25D03790111892E3009A18F2 /* TiledMap.m in Sources */,
+				25C13B26111983DE00722F27 /* SingletonGameState.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = iPhoneGame_Prefix.pch;
+				"GCC_THUMB_SUPPORT[arch=armv6]" = "";
+				HEADER_SEARCH_PATHS = /usr/include/libxml2;
+				INFOPLIST_FILE = "iPhoneGame-Info.plist";
+				OTHER_LDFLAGS = "-lxml2";
+				PRODUCT_NAME = iPhoneGame;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = iPhoneGame_Prefix.pch;
+				"GCC_THUMB_SUPPORT[arch=armv6]" = "";
+				INFOPLIST_FILE = "iPhoneGame-Info.plist";
+				PRODUCT_NAME = iPhoneGame;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos3.1.2;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos3.1.2;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "iPhoneGame" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "iPhoneGame" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

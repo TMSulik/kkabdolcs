@@ -1,0 +1,216 @@
+// !$*UTF8*$!
+{
+	182D63AC0F6C239800BF1C24 /* Texture2D.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {707, 1712}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1672}";
+		};
+	};
+	182D63AD0F6C239800BF1C24 /* Texture2D.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {707, 4832}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1672}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* OGLGame */ = {
+		activeExec = 0;
+		executables = (
+			25B201B110F5A57E00CB718A /* OGLGame */,
+		);
+	};
+	258C96B3110833F700509C48 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 182D63B10F6C23BA00BF1C24 /* player.png */;
+	};
+	258C96B4110833F700509C48 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28FD14FC0DC6FC130079059D /* EAGLView.h */;
+		name = "EAGLView.h: 9";
+		rLen = 0;
+		rLoc = 142;
+		rType = 0;
+		vrLen = 715;
+		vrLoc = 544;
+	};
+	258C96B5110833F700509C48 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28FD14FD0DC6FC130079059D /* EAGLView.m */;
+		name = "EAGLView.m: 109";
+		rLen = 19;
+		rLoc = 2564;
+		rType = 0;
+		vrLen = 1075;
+		vrLoc = 2808;
+	};
+	25930D331108178D00E92862 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 5";
+		rLen = 0;
+		rLoc = 51;
+		rType = 0;
+		vrLen = 344;
+		vrLoc = 0;
+	};
+	25930D351108178D00E92862 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28FD14FD0DC6FC130079059D /* EAGLView.m */;
+		name = "EAGLView.m: 68";
+		rLen = 13;
+		rLoc = 1707;
+		rType = 0;
+		vrLen = 985;
+		vrLoc = 1333;
+	};
+	25930D361108178D00E92862 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 25930D371108178D00E92862 /* gl.h */;
+		name = "gl.h: 369";
+		rLen = 0;
+		rLoc = 14365;
+		rType = 0;
+		vrLen = 1382;
+		vrLoc = 0;
+	};
+	25930D371108178D00E92862 /* gl.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = gl.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h;
+		sourceTree = "<absolute>";
+	};
+	25930D381108178D00E92862 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 182D63AC0F6C239800BF1C24 /* Texture2D.h */;
+		name = "Texture2D.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1672;
+		vrLoc = 0;
+	};
+	25930D391108178D00E92862 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 182D63AD0F6C239800BF1C24 /* Texture2D.m */;
+		name = "Texture2D.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1672;
+		vrLoc = 0;
+	};
+	25B201B110F5A57E00CB718A /* OGLGame */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = OGLGame;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	25B201C310F5A58C00CB718A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	25B201C410F5A58C00CB718A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	28FD14FC0DC6FC130079059D /* EAGLView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {831, 832}}";
+			sepNavSelRange = "{142, 0}";
+			sepNavVisRange = "{544, 715}";
+		};
+	};
+	28FD14FD0DC6FC130079059D /* EAGLView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1202, 3392}}";
+			sepNavSelRange = "{2564, 19}";
+			sepNavVisRange = "{2808, 1075}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 25B201B110F5A57E00CB718A /* OGLGame */;
+		activeSDKPreference = iphonesimulator3.1.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* OGLGame */;
+		codeSenseManager = 25B201C410F5A58C00CB718A /* Code sense */;
+		executables = (
+			25B201B110F5A57E00CB718A /* OGLGame */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					529,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 285750233;
+			PBXWorkspaceStateSaveDate = 285750233;
+		};
+		perUserProjectItems = {
+			258C96B3110833F700509C48 /* PBXBookmark */ = 258C96B3110833F700509C48 /* PBXBookmark */;
+			258C96B4110833F700509C48 /* PBXTextBookmark */ = 258C96B4110833F700509C48 /* PBXTextBookmark */;
+			258C96B5110833F700509C48 /* PBXTextBookmark */ = 258C96B5110833F700509C48 /* PBXTextBookmark */;
+			25930D331108178D00E92862 /* PBXTextBookmark */ = 25930D331108178D00E92862 /* PBXTextBookmark */;
+			25930D351108178D00E92862 /* PBXTextBookmark */ = 25930D351108178D00E92862 /* PBXTextBookmark */;
+			25930D361108178D00E92862 /* PBXTextBookmark */ = 25930D361108178D00E92862 /* PBXTextBookmark */;
+			25930D381108178D00E92862 /* PBXTextBookmark */ = 25930D381108178D00E92862 /* PBXTextBookmark */;
+			25930D391108178D00E92862 /* PBXTextBookmark */ = 25930D391108178D00E92862 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 25B201C310F5A58C00CB718A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 288}}";
+			sepNavSelRange = "{51, 0}";
+			sepNavVisRange = "{0, 344}";
+		};
+	};
+}

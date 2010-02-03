@@ -1,0 +1,2 @@
+/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Classes/iPhoneGameAppDelegate.m:46: warning: property 'currentTexture' requires method '-currentTexture' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/kkabdol/Desktop/iPhone/Game Tutorial/iPhoneGame/Classes/iPhoneGameAppDelegate.m:46: warning: property 'currentTexture' requires the method 'setCurrentTexture:' to be defined - use @synthesize, @dynamic or provide a method implementation

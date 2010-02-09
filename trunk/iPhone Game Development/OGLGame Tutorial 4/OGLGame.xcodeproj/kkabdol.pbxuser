@@ -1,0 +1,159 @@
+// !$*UTF8*$!
+{
+	186370F30F9297A40042D30E /* AngelCodeFont.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {896, 960}}";
+			sepNavSelRange = "{1430, 0}";
+			sepNavVisRange = "{694, 1428}";
+			sepNavWindowFrame = "{{929, 228}, {955, 830}}";
+		};
+	};
+	186370F40F9297A40042D30E /* AngelCodeFont.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {896, 5136}}";
+			sepNavSelRange = "{10440, 0}";
+			sepNavVisRange = "{8105, 2507}";
+			sepNavWindowFrame = "{{954, 228}, {955, 830}}";
+		};
+	};
+	186370FB0F92A05A0042D30E /* CharDef.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {620, 832}}";
+			sepNavSelRange = "{1366, 0}";
+			sepNavVisRange = "{384, 983}";
+		};
+	};
+	186370FC0F92A05A0042D30E /* CharDef.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {620, 784}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 674}";
+			sepNavWindowFrame = "{{954, 228}, {955, 830}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* OGLGame */ = {
+		activeExec = 0;
+		executables = (
+			25B020001121B9BA003BD775 /* OGLGame */,
+		);
+	};
+	25B020001121B9BA003BD775 /* OGLGame */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = OGLGame;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	25B0200D1121B9D8003BD775 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	25B0200E1121B9D8003BD775 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	25B0204D1121BD30003BD775 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 186370F30F9297A40042D30E /* AngelCodeFont.h */;
+		name = "AngelCodeFont.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 982;
+		vrLoc = 918;
+	};
+	25B0204E1121BD30003BD775 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 186370FB0F92A05A0042D30E /* CharDef.h */;
+		name = "CharDef.h: 51";
+		rLen = 0;
+		rLoc = 1366;
+		rType = 0;
+		vrLen = 983;
+		vrLoc = 384;
+	};
+	25B0204F1121BD30003BD775 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 186370FC0F92A05A0042D30E /* CharDef.m */;
+	};
+	25B020501121BD30003BD775 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 186370FC0F92A05A0042D30E /* CharDef.m */;
+		name = "CharDef.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 674;
+		vrLoc = 0;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 25B020001121B9BA003BD775 /* OGLGame */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* OGLGame */;
+		codeSenseManager = 25B0200E1121B9D8003BD775 /* Code sense */;
+		executables = (
+			25B020001121B9BA003BD775 /* OGLGame */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					442,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 287422906;
+			PBXWorkspaceStateSaveDate = 287422906;
+		};
+		perUserProjectItems = {
+			25B0204D1121BD30003BD775 /* PBXTextBookmark */ = 25B0204D1121BD30003BD775 /* PBXTextBookmark */;
+			25B0204E1121BD30003BD775 /* PBXTextBookmark */ = 25B0204E1121BD30003BD775 /* PBXTextBookmark */;
+			25B0204F1121BD30003BD775 /* PBXBookmark */ = 25B0204F1121BD30003BD775 /* PBXBookmark */;
+			25B020501121BD30003BD775 /* PBXTextBookmark */ = 25B020501121BD30003BD775 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 25B0200D1121B9D8003BD775 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}

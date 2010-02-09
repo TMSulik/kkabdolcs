@@ -1,0 +1,193 @@
+// !$*UTF8*$!
+{
+	186370F30F9297A40042D30E /* AngelCodeFont.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {806, 877}}";
+			sepNavSelRange = "{1590, 0}";
+			sepNavVisRange = "{0, 2122}";
+		};
+	};
+	186370F40F9297A40042D30E /* AngelCodeFont.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1124, 4134}}";
+			sepNavSelRange = "{9018, 0}";
+			sepNavVisRange = "{7670, 3503}";
+		};
+	};
+	1870BEBE0F6D16E500A77DBA /* Image.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1124, 6019}}";
+			sepNavSelRange = "{751, 0}";
+			sepNavVisRange = "{0, 1334}";
+		};
+	};
+	1D3623250D0F684500981E51 /* OGLGameAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {806, 877}}";
+			sepNavSelRange = "{456, 94}";
+			sepNavVisRange = "{0, 780}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* OGLGame */ = {
+		activeExec = 0;
+		executables = (
+			8F07565D1054E03A0098ACFE /* OGLGame */,
+		);
+	};
+	28FD14FD0DC6FC130079059D /* EAGLView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1124, 3757}}";
+			sepNavSelRange = "{2425, 0}";
+			sepNavVisRange = "{1297, 2469}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8F07565D1054E03A0098ACFE /* OGLGame */;
+		activeSDKPreference = iphonesimulator3.1.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* OGLGame */;
+		codeSenseManager = 8F0756761054E0470098ACFE /* Code sense */;
+		executables = (
+			8F07565D1054E03A0098ACFE /* OGLGame */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					10,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 287250478;
+			PBXWorkspaceStateSaveDate = 287250478;
+		};
+		perUserProjectItems = {
+			8F1E166B111C42B200984AC5 /* PBXTextBookmark */ = 8F1E166B111C42B200984AC5 /* PBXTextBookmark */;
+			8F1E1683111C455300984AC5 /* PBXTextBookmark */ = 8F1E1683111C455300984AC5 /* PBXTextBookmark */;
+			8F3E376E111F18A700102676 /* PBXTextBookmark */ = 8F3E376E111F18A700102676 /* PBXTextBookmark */;
+			8F3E376F111F18A700102676 /* PBXTextBookmark */ = 8F3E376F111F18A700102676 /* PBXTextBookmark */;
+			8F3E3770111F18A700102676 /* PBXTextBookmark */ = 8F3E3770111F18A700102676 /* PBXTextBookmark */;
+			8F3E3771111F18A700102676 /* PBXTextBookmark */ = 8F3E3771111F18A700102676 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8F0756751054E0470098ACFE /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8F07565D1054E03A0098ACFE /* OGLGame */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = OGLGame;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	8F0756751054E0470098ACFE /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8F0756761054E0470098ACFE /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8F1E166B111C42B200984AC5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* OGLGameAppDelegate.m */;
+		name = "OGLGameAppDelegate.m: 20";
+		rLen = 94;
+		rLoc = 456;
+		rType = 0;
+		vrLen = 780;
+		vrLoc = 0;
+	};
+	8F1E1683111C455300984AC5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 186370F30F9297A40042D30E /* AngelCodeFont.h */;
+		name = "AngelCodeFont.h: 43";
+		rLen = 0;
+		rLoc = 1590;
+		rType = 0;
+		vrLen = 2122;
+		vrLoc = 0;
+	};
+	8F3E376E111F18A700102676 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1870BEBE0F6D16E500A77DBA /* Image.m */;
+		name = "Image.m: 35";
+		rLen = 0;
+		rLoc = 751;
+		rType = 0;
+		vrLen = 1334;
+		vrLoc = 0;
+	};
+	8F3E376F111F18A700102676 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28FD14FD0DC6FC130079059D /* EAGLView.m */;
+		name = "EAGLView.m: 89";
+		rLen = 0;
+		rLoc = 2425;
+		rType = 0;
+		vrLen = 2469;
+		vrLoc = 1297;
+	};
+	8F3E3770111F18A700102676 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 186370F40F9297A40042D30E /* AngelCodeFont.m */;
+		name = "AngelCodeFont.m: 225";
+		rLen = 0;
+		rLoc = 9149;
+		rType = 0;
+		vrLen = 3500;
+		vrLoc = 7670;
+	};
+	8F3E3771111F18A700102676 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 186370F40F9297A40042D30E /* AngelCodeFont.m */;
+		name = "AngelCodeFont.m: 225";
+		rLen = 0;
+		rLoc = 9018;
+		rType = 0;
+		vrLen = 3503;
+		vrLoc = 7670;
+	};
+}

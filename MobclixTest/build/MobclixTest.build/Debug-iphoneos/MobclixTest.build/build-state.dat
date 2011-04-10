@@ -1,0 +1,1107 @@
+TMobclixTest
+v7
+r1
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1111C00000000000000C4
+t1287721244
+s196
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Classes/MobclixTestAppDelegate.h
+c000000004DA130310000000000000206
+t1302409265
+s518
+i<UIKit/UIKit.h>
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Classes/MobclixTestAppDelegate.m
+c000000004DA130310000000000000AFA
+t1302409265
+s2810
+i"MobclixTestAppDelegate.h"
+i"MobclixTestViewController.h"
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Classes/MobclixTestViewController.h
+c000000004DA130310000000000000103
+t1302409265
+s259
+i<UIKit/UIKit.h>
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Classes/MobclixTestViewController.m
+c000000004DA13031000000000000060C
+t1302409265
+s1548
+i"MobclixTestViewController.h"
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/GoogleAdMobAdsSDK/README.txt
+c000000004D7DE4A8000000000000016D
+t1300096168
+s365
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/GoogleAdMobAdsSDK/libGoogleAdMobAds.a
+c000000004D7DE4A800000000006DAD34
+t1300096168
+s7187764
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/MainWindow.xib
+c000000004DA130310000000000004E59
+t1302409265
+s20057
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Classes/Controllers/AdvertisingViewController/MobclixAdvertisingViewController-ipad.xib
+c000000004BC264A90000000000006B89
+t1271030953
+s27529
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Classes/Controllers/AdvertisingViewController/MobclixAdvertisingViewController-iphone.xib
+c000000004C35DDB20000000000005EDB
+t1278598578
+s24283
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Classes/Controllers/AdvertisingViewController/MobclixAdvertisingViewController.h
+c000000004D3B467A0000000000000389
+t1295730298
+s905
+i<UIKit/UIKit.h>
+i"MobclixAds.h"
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Classes/Controllers/AdvertisingViewController/MobclixAdvertisingViewController.m
+c000000004D3B467A0000000000001093
+t1295730298
+s4243
+i"MobclixAdvertisingViewController.h"
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Classes/Controllers/AdvertisingViewController/MobclixFullScreenAdvertisingView.xib
+c000000004D545E2E000000000000714C
+t1297374766
+s29004
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Classes/Controllers/AdvertisingViewController/MobclixFullScreenAdvertisingViewController.h
+c000000004D545E1900000000000002CD
+t1297374745
+s717
+i<UIKit/UIKit.h>
+i"MobclixFullScreenAdViewController.h"
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Classes/Controllers/AdvertisingViewController/MobclixFullScreenAdvertisingViewController.m
+c000000004D545E870000000000000B2D
+t1297374855
+s2861
+i"MobclixFullScreenAdvertisingViewController.h"
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Classes/Controllers/AppDelegate/MobclixDemoAppDelegate.h
+c000000004D3B467A000000000000018C
+t1295730298
+s396
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Classes/Controllers/AppDelegate/MobclixDemoAppDelegate.m
+c000000004D3B467A0000000000000260
+t1295730298
+s608
+i"MobclixDemoAppDelegate.h"
+i"Mobclix.h"
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Classes/Controllers/CommentViewController/MobclixCommentViewController.h
+c000000004D3B467A000000000000020F
+t1295730298
+s527
+i<UIKit/UIKit.h>
+i"MobclixFeedback.h"
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Classes/Controllers/CommentViewController/MobclixCommentViewController.m
+c000000004D3B467A00000000000010E4
+t1295730298
+s4324
+i"MobclixCommentViewController.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Classes/Controllers/CommentViewController/MobclixCommentViewController.xib
+c000000004CE6B88A0000000000007262
+t1290188938
+s29282
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Classes/Controllers/DemoViewController/MobclixDemoViewController.h
+c000000004D3B467A0000000000000152
+t1295730298
+s338
+i<UIKit/UIKit.h>
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Classes/Controllers/DemoViewController/MobclixDemoViewController.m
+c000000004D545B690000000000001285
+t1297374057
+s4741
+i"MobclixDemoViewController.h"
+i"MobclixAdvertisingViewController.h"
+i"MobclixCommentViewController.h"
+i"MobclixRatingViewController.h"
+i"MobclixDemographicsViewController.h"
+i"MobclixFullScreenAdvertisingViewController.h"
+i"Mobclix.h"
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Classes/Controllers/DemoViewController/MobclixDemoViewController.xib
+c000000004C16BF850000000000005E25
+t1276559237
+s24101
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Classes/Controllers/DemographicsViewController/MobclixDemographicsViewController.h
+c000000004D3B467A00000000000003F2
+t1295730298
+s1010
+i<UIKit/UIKit.h>
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Classes/Controllers/DemographicsViewController/MobclixDemographicsViewController.m
+c000000004D3B467A0000000000003D4D
+t1295730298
+s15693
+i"MobclixDemographicsViewController.h"
+i"MobclixDemographics.h"
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Classes/Controllers/DemographicsViewController/MobclixDemographicsViewController.xib
+c000000004CEFFBB00000000000007BD7
+t1290795952
+s31703
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Classes/Controllers/RatingViewController/MobclixRatingViewController.h
+c000000004D3B467A0000000000000215
+t1295730298
+s533
+i<UIKit/UIKit.h>
+i"MobclixFeedback.h"
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Classes/Controllers/RatingViewController/MobclixRatingViewController.m
+c000000004D3B467B0000000000001DEE
+t1295730299
+s7662
+i"MobclixRatingViewController.h"
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Classes/Controllers/RatingViewController/MobclixRatingViewController.xib
+c000000004CE6B88A00000000000071AD
+t1290188938
+s29101
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Classes/Other/main.m
+c000000004D3B467B000000000000013F
+t1295730299
+s319
+i<UIKit/UIKit.h>
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/Default-Landscape.png
+c000000004CE6B8880000000000017A6D
+t1290188936
+s96877
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/Default-Portrait.png
+c000000004CE6B888000000000000DBC6
+t1290188936
+s56262
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/Default.png
+c000000004CE6B8880000000000001E20
+t1290188936
+s7712
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/Default@2x.png
+c000000004CE6B888000000000000FF1E
+t1290188936
+s65310
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/MainWindow-iPad.xib
+c000000004CEFFB0D0000000000006B42
+t1290795789
+s27458
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/MainWindow.xib
+c000000004CEFFB0700000000000068DB
+t1290795783
+s26843
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/MobclixDemo-Info.plist
+c000000004D90DB2D00000000000005BA
+t1301338925
+s1466
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/fade.png
+c000000004CE6B8880000000000000065
+t1290188936
+s101
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icon@2x~iphone.png
+c000000004CE6B888000000000000098B
+t1290188936
+s2443
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icons/advertising.png
+c000000004CE6B88800000000000003CA
+t1290188936
+s970
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icons/advertising@2x.png
+c000000004CE6B88800000000000009CC
+t1290188936
+s2508
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icons/comments.png
+c000000004CE6B88800000000000004E2
+t1290188936
+s1250
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icons/comments@2x.png
+c000000004CE6B8880000000000000BB9
+t1290188936
+s3001
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icons/demographics.png
+c000000004CE6B88800000000000002FA
+t1290188936
+s762
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icons/demographics@2x.png
+c000000004CE6B8880000000000000721
+t1290188936
+s1825
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icons/fullscreen.png
+c000000004C7D8A100000000000000548
+t1283295760
+s1352
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icons/fullscreen@2x.png
+c000000004D2E1E050000000000000C1E
+t1294867973
+s3102
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icons/ratings.png
+c000000004CE6B88800000000000005DC
+t1290188936
+s1500
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icons/ratings@2x.png
+c000000004CE6B88800000000000009F6
+t1290188936
+s2550
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icons/ratings_appearance.png
+c000000004CE6B8880000000000000619
+t1290188936
+s1561
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icons/ratings_appearance@2x.png
+c000000004CE6B8880000000000001321
+t1290188936
+s4897
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icons/ratings_off.png
+c000000004CE6B88800000000000001ED
+t1290188936
+s493
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icons/ratings_off@2x.png
+c000000004CE6B8880000000000000259
+t1290188936
+s601
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icons/ratings_overall.png
+c000000004CE6B888000000000000053D
+t1290188936
+s1341
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icons/ratings_overall@2x.png
+c000000004CE6B8880000000000000BE5
+t1290188936
+s3045
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icons/ratings_performance.png
+c000000004CE6B888000000000000035F
+t1290188936
+s863
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icons/ratings_performance@2x.png
+c000000004CE6B8880000000000000883
+t1290188936
+s2179
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icons/ratings_recommend.png
+c000000004CE6B88800000000000004F3
+t1290188936
+s1267
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icons/ratings_recommend@2x.png
+c000000004CE6B8880000000000000C3F
+t1290188936
+s3135
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icons/ratings_usability.png
+c000000004CE6B8880000000000000612
+t1290188936
+s1554
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icons/ratings_usability@2x.png
+c000000004CE6B8880000000000000D6F
+t1290188936
+s3439
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icons/settings.png
+c000000004CE6B888000000000000058F
+t1290188936
+s1423
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icons/settings@2x.png
+c000000004CE6B8880000000000000AEB
+t1290188936
+s2795
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icon~ipad.png
+c000000004CE6B8880000000000000667
+t1290188936
+s1639
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icon~iphone.png
+c000000004CE6B8880000000000000558
+t1290188936
+s1368
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/mobclix.png
+c000000004CE6B8880000000000001C92
+t1290188936
+s7314
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/mobclix@2x.png
+c000000004CE6B88800000000000059DC
+t1290188936
+s23004
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Documentation/Integration Guide.pdf
+c000000004D3F627D000000000010814E
+t1295999613
+s1081678
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Documentation/Open Allocation Guide.pdf
+c000000004D3F6572000000000019F327
+t1296000370
+s1700647
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Documentation/Transition Guide v4.0.x to v4.1.pdf
+c000000004C37C2AE000000000000C8A2
+t1278722734
+s51362
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Documentation/Transition Guide v4.1.x to v4.2.pdf
+c000000004CF9797A000000000001AD6A
+t1291417978
+s109930
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Documentation/change.log
+c000000004D90DB1500000000000016B5
+t1301338901
+s5813
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Mobclix SDK (Non-Thumb)/libMobclix_nonthumb.a
+c000000004D8CEE3E00000000008A9D2C
+t1301081662
+s9084204
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Mobclix SDK/Mobclix.h
+c000000004D8CEDF80000000000000549
+t1301081592
+s1353
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Mobclix SDK/MobclixAdView.h
+c000000004D8CEDF8000000000000154C
+t1301081592
+s5452
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Mobclix SDK/MobclixAds.h
+c000000004D8CEDF80000000000000079
+t1301081592
+s121
+i"MobclixAdView.h"
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Mobclix SDK/MobclixDemographics.h
+c000000004D8CEDF80000000000000865
+t1301081592
+s2149
+i<Foundation/Foundation.h>
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Mobclix SDK/MobclixFeedback.h
+c000000004D8CEDF80000000000000610
+t1301081592
+s1552
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Mobclix SDK/MobclixFullScreenAdViewController.h
+c000000004D8CEDF80000000000000A5A
+t1301081592
+s2650
+i<UIKit/UIKit.h>
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Mobclix SDK/libMobclix.a
+c000000004D8CEE3E000000000088917C
+t1301081662
+s8950140
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK/libMobclix.a
+c000000004D8CEE3E000000000088917C
+t1301081662
+s8950140
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/MobclixTestViewController.xib
+c000000004DA130310000000000001A55
+t1302409265
+s6741
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/MobclixTest_Prefix.pch
+c000000004DA1303100000000000000C7
+t1302409265
+s199
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app.dSYM
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/Default-Landscape.png
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/Default-Portrait.png
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/Default.png
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/Default@2x.png
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/Info.plist
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/Integration Guide.pdf
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/MainWindow-iPad.nib
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/MainWindow.nib
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/MobclixAdvertisingViewController-ipad.nib
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/MobclixAdvertisingViewController-iphone.nib
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/MobclixCommentViewController.nib
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/MobclixDemo-Info.plist
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/MobclixDemoViewController.nib
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/MobclixDemographicsViewController.nib
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/MobclixFullScreenAdvertisingView.nib
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/MobclixRatingViewController.nib
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/MobclixTest
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/MobclixTestViewController.nib
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/Open Allocation Guide.pdf
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/PkgInfo
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/README.txt
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/ResourceRules.plist
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/Transition Guide v4.0.x to v4.1.pdf
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/Transition Guide v4.1.x to v4.2.pdf
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/advertising.png
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/advertising@2x.png
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/change.log
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/comments.png
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/comments@2x.png
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/demographics.png
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/demographics@2x.png
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/fade.png
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/fullscreen.png
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/fullscreen@2x.png
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/icon@2x~iphone.png
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/icon~ipad.png
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/icon~iphone.png
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/mobclix.png
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/mobclix@2x.png
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/ratings.png
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/ratings@2x.png
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/ratings_appearance.png
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/ratings_appearance@2x.png
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/ratings_off.png
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/ratings_off@2x.png
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/ratings_overall.png
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/ratings_overall@2x.png
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/ratings_performance.png
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/ratings_performance@2x.png
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/ratings_recommend.png
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/ratings_recommend@2x.png
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/ratings_usability.png
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/ratings_usability@2x.png
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/settings.png
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/settings@2x.png
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv6/MobclixAdvertisingViewController.o
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv6/MobclixCommentViewController.o
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv6/MobclixDemoAppDelegate.o
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv6/MobclixDemoViewController.o
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv6/MobclixDemographicsViewController.o
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv6/MobclixFullScreenAdvertisingViewController.o
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv6/MobclixRatingViewController.o
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv6/MobclixTest
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv6/MobclixTest.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv6/MobclixTestAppDelegate.o
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv6/MobclixTestViewController.o
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv6/main-AB0B3F63F3F73B3D.o
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv6/main-B9843B6026D6EFA4.o
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv7/MobclixAdvertisingViewController.o
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv7/MobclixCommentViewController.o
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv7/MobclixDemoAppDelegate.o
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv7/MobclixDemoViewController.o
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv7/MobclixDemographicsViewController.o
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv7/MobclixFullScreenAdvertisingViewController.o
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv7/MobclixRatingViewController.o
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv7/MobclixTest
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv7/MobclixTest.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv7/MobclixTestAppDelegate.o
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv7/MobclixTestViewController.o
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv7/main-AB0B3F63F3F73B3D.o
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv7/main-B9843B6026D6EFA4.o
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/main.m
+c000000004DA130310000000000000177
+t1302409265
+s375
+i<UIKit/UIKit.h>
+
+N/var/folders/IS/ISVBNtRIHrWkqp-B+BRHqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MobclixTest_Prefix-bpfufgllgwmewofzuhmttcxsprkb/MobclixTest_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/IS/ISVBNtRIHrWkqp-B+BRHqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MobclixTest_Prefix-dbwdcmqiantfrkazlnlwjhomscej/MobclixTest_Prefix.pch.gch
+t2
+s0
+
+NMobclixTest-Info.plist
+c000000004DA1303100000000000003AB
+t1302409265
+s939
+
+CCompileC build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv6/MobclixAdvertisingViewController.o "/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Classes/Controllers/AdvertisingViewController/MobclixAdvertisingViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv6/MobclixCommentViewController.o "/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Classes/Controllers/CommentViewController/MobclixCommentViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv6/MobclixDemoAppDelegate.o "/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Classes/Controllers/AppDelegate/MobclixDemoAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv6/MobclixDemoViewController.o "/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Classes/Controllers/DemoViewController/MobclixDemoViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv6/MobclixDemographicsViewController.o "/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Classes/Controllers/DemographicsViewController/MobclixDemographicsViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv6/MobclixFullScreenAdvertisingViewController.o "/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Classes/Controllers/AdvertisingViewController/MobclixFullScreenAdvertisingViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv6/MobclixRatingViewController.o "/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Classes/Controllers/RatingViewController/MobclixRatingViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv6/MobclixTestAppDelegate.o /Users/kkabdol/Desktop/Programming/MobclixTest/Classes/MobclixTestAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv6/MobclixTestViewController.o /Users/kkabdol/Desktop/Programming/MobclixTest/Classes/MobclixTestViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv6/main-AB0B3F63F3F73B3D.o "/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Classes/Other/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv6/main-B9843B6026D6EFA4.o /Users/kkabdol/Desktop/Programming/MobclixTest/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv6/main.o /Users/kkabdol/Desktop/Programming/MobclixTest/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv7/MobclixAdvertisingViewController.o "/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Classes/Controllers/AdvertisingViewController/MobclixAdvertisingViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv7/MobclixCommentViewController.o "/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Classes/Controllers/CommentViewController/MobclixCommentViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv7/MobclixDemoAppDelegate.o "/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Classes/Controllers/AppDelegate/MobclixDemoAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv7/MobclixDemoViewController.o "/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Classes/Controllers/DemoViewController/MobclixDemoViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv7/MobclixDemographicsViewController.o "/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Classes/Controllers/DemographicsViewController/MobclixDemographicsViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv7/MobclixFullScreenAdvertisingViewController.o "/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Classes/Controllers/AdvertisingViewController/MobclixFullScreenAdvertisingViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv7/MobclixRatingViewController.o "/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Classes/Controllers/RatingViewController/MobclixRatingViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv7/MobclixTestAppDelegate.o /Users/kkabdol/Desktop/Programming/MobclixTest/Classes/MobclixTestAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv7/MobclixTestViewController.o /Users/kkabdol/Desktop/Programming/MobclixTest/Classes/MobclixTestViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv7/main-AB0B3F63F3F73B3D.o "/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Classes/Other/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv7/main-B9843B6026D6EFA4.o /Users/kkabdol/Desktop/Programming/MobclixTest/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv7/main.o /Users/kkabdol/Desktop/Programming/MobclixTest/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Classes/Controllers/AdvertisingViewController/MobclixAdvertisingViewController-ipad.xib"
+r0
+
+CCompileXIB "/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Classes/Controllers/AdvertisingViewController/MobclixAdvertisingViewController-iphone.xib"
+r0
+
+CCompileXIB "/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Classes/Controllers/AdvertisingViewController/MobclixFullScreenAdvertisingView.xib"
+r0
+
+CCompileXIB "/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Classes/Controllers/CommentViewController/MobclixCommentViewController.xib"
+r0
+
+CCompileXIB "/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Classes/Controllers/DemoViewController/MobclixDemoViewController.xib"
+r0
+
+CCompileXIB "/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Classes/Controllers/DemographicsViewController/MobclixDemographicsViewController.xib"
+r0
+
+CCompileXIB "/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Classes/Controllers/RatingViewController/MobclixRatingViewController.xib"
+r0
+
+CCompileXIB "/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/MainWindow-iPad.xib"
+r0
+
+CCompileXIB "/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/MainWindow.xib"
+r0
+
+CCompileXIB /Users/kkabdol/Desktop/Programming/MobclixTest/MainWindow.xib
+r0
+
+CCompileXIB /Users/kkabdol/Desktop/Programming/MobclixTest/MobclixTestViewController.xib
+r0
+
+CCopyPNGFile /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/Default-Landscape.png "Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/Default-Landscape.png"
+r0
+
+CCopyPNGFile /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/Default-Portrait.png "Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/Default-Portrait.png"
+r0
+
+CCopyPNGFile /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/Default.png "Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/Default.png"
+r0
+
+CCopyPNGFile /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/Default@2x.png "Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/Default@2x.png"
+r0
+
+CCopyPNGFile /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/advertising.png "Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icons/advertising.png"
+r0
+
+CCopyPNGFile /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/advertising@2x.png "Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icons/advertising@2x.png"
+r0
+
+CCopyPNGFile /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/comments.png "Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icons/comments.png"
+r0
+
+CCopyPNGFile /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/comments@2x.png "Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icons/comments@2x.png"
+r0
+
+CCopyPNGFile /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/demographics.png "Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icons/demographics.png"
+r0
+
+CCopyPNGFile /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/demographics@2x.png "Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icons/demographics@2x.png"
+r0
+
+CCopyPNGFile /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/fade.png "Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/fade.png"
+r0
+
+CCopyPNGFile /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/fullscreen.png "Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icons/fullscreen.png"
+r0
+
+CCopyPNGFile /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/fullscreen@2x.png "Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icons/fullscreen@2x.png"
+r0
+
+CCopyPNGFile /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/icon@2x~iphone.png "Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icon@2x~iphone.png"
+r0
+
+CCopyPNGFile /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/icon~ipad.png "Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icon~ipad.png"
+r0
+
+CCopyPNGFile /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/icon~iphone.png "Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icon~iphone.png"
+r0
+
+CCopyPNGFile /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/mobclix.png "Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/mobclix.png"
+r0
+
+CCopyPNGFile /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/mobclix@2x.png "Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/mobclix@2x.png"
+r0
+
+CCopyPNGFile /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/ratings.png "Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icons/ratings.png"
+r0
+
+CCopyPNGFile /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/ratings@2x.png "Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icons/ratings@2x.png"
+r0
+
+CCopyPNGFile /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/ratings_appearance.png "Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icons/ratings_appearance.png"
+r0
+
+CCopyPNGFile /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/ratings_appearance@2x.png "Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icons/ratings_appearance@2x.png"
+r0
+
+CCopyPNGFile /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/ratings_off.png "Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icons/ratings_off.png"
+r0
+
+CCopyPNGFile /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/ratings_off@2x.png "Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icons/ratings_off@2x.png"
+r0
+
+CCopyPNGFile /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/ratings_overall.png "Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icons/ratings_overall.png"
+r0
+
+CCopyPNGFile /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/ratings_overall@2x.png "Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icons/ratings_overall@2x.png"
+r0
+
+CCopyPNGFile /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/ratings_performance.png "Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icons/ratings_performance.png"
+r0
+
+CCopyPNGFile /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/ratings_performance@2x.png "Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icons/ratings_performance@2x.png"
+r0
+
+CCopyPNGFile /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/ratings_recommend.png "Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icons/ratings_recommend.png"
+r0
+
+CCopyPNGFile /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/ratings_recommend@2x.png "Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icons/ratings_recommend@2x.png"
+r0
+
+CCopyPNGFile /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/ratings_usability.png "Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icons/ratings_usability.png"
+r0
+
+CCopyPNGFile /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/ratings_usability@2x.png "Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icons/ratings_usability@2x.png"
+r0
+
+CCopyPNGFile /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/settings.png "Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icons/settings.png"
+r0
+
+CCopyPNGFile /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/settings@2x.png "Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/icons/settings@2x.png"
+r0
+
+CCopyPlistFile /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/MobclixDemo-Info.plist "Mobclix SDK 4.3.5 for iOS/Demo Application/Resources/MobclixDemo-Info.plist"
+r0
+
+CCpResource "build/Debug-iphoneos/MobclixTest.app/Integration Guide.pdf" "Mobclix SDK 4.3.5 for iOS/Documentation/Integration Guide.pdf"
+r0
+
+CCpResource "build/Debug-iphoneos/MobclixTest.app/Open Allocation Guide.pdf" "Mobclix SDK 4.3.5 for iOS/Documentation/Open Allocation Guide.pdf"
+r0
+
+CCpResource "build/Debug-iphoneos/MobclixTest.app/Transition Guide v4.0.x to v4.1.pdf" "Mobclix SDK 4.3.5 for iOS/Documentation/Transition Guide v4.0.x to v4.1.pdf"
+r0
+
+CCpResource "build/Debug-iphoneos/MobclixTest.app/Transition Guide v4.1.x to v4.2.pdf" "Mobclix SDK 4.3.5 for iOS/Documentation/Transition Guide v4.1.x to v4.2.pdf"
+r0
+
+CCpResource build/Debug-iphoneos/MobclixTest.app/README.txt GoogleAdMobAdsSDK/README.txt
+r0
+
+CCpResource build/Debug-iphoneos/MobclixTest.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+r0
+
+CCpResource build/Debug-iphoneos/MobclixTest.app/change.log "Mobclix SDK 4.3.5 for iOS/Documentation/change.log"
+r0
+
+CCreateUniversalBinary /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/MobclixTest normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app.dSYM /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/MobclixTest
+r0
+
+CLd /Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv6/MobclixTest normal armv6
+r0
+
+CLd /Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphoneos/MobclixTest.build/Objects-normal/armv7/MobclixTest normal armv7
+r0
+
+CProcessInfoPlistFile /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app/Info.plist MobclixTest-Info.plist
+r0
+
+CProcessPCH /var/folders/IS/ISVBNtRIHrWkqp-B+BRHqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MobclixTest_Prefix-bpfufgllgwmewofzuhmttcxsprkb/MobclixTest_Prefix.pch.gch MobclixTest_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/IS/ISVBNtRIHrWkqp-B+BRHqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MobclixTest_Prefix-dbwdcmqiantfrkazlnlwjhomscej/MobclixTest_Prefix.pch.gch MobclixTest_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphoneos/MobclixTest.app
+r0
+

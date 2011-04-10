@@ -1,0 +1,347 @@
+TMobclixTest
+v7
+r0
+t324103029.507429
+cCheck dependencies
+cProcessInfoPlistFile /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphonesimulator/MobclixTest.app/Info.plist MobclixTest-Info.plist
+cCompileXIB /Users/kkabdol/Desktop/Programming/MobclixTest/MainWindow.xib
+cCompileXIB /Users/kkabdol/Desktop/Programming/MobclixTest/MobclixTestViewController.xib
+cCpResource build/Debug-iphonesimulator/MobclixTest.app/README.txt GoogleAdMobAdsSDK/README.txt
+cProcessPCH /var/folders/IS/ISVBNtRIHrWkqp-B+BRHqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MobclixTest_Prefix-bqnvukaetwudapammyjpkiabgqdt/MobclixTest_Prefix.pch.gch MobclixTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MobclixTest.build/Debug-iphonesimulator/MobclixTest.build/Objects-normal/i386/main.o /Users/kkabdol/Desktop/Programming/MobclixTest/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MobclixTest.build/Debug-iphonesimulator/MobclixTest.build/Objects-normal/i386/MobclixTestAppDelegate.o /Users/kkabdol/Desktop/Programming/MobclixTest/Classes/MobclixTestAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MobclixTest.build/Debug-iphonesimulator/MobclixTest.build/Objects-normal/i386/MobclixTestViewController.o /Users/kkabdol/Desktop/Programming/MobclixTest/Classes/MobclixTestViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphonesimulator/MobclixTest.app/MobclixTest normal i386
+cGenerateDSYMFile /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphonesimulator/MobclixTest.app.dSYM /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphonesimulator/MobclixTest.app/MobclixTest
+cTouch /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphonesimulator/MobclixTest.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004CC1288A00000000000F34A0
+t1287727242
+s996512
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c000000004CC122E10000000000075FE0
+t1287725793
+s483296
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AddressBookUI.framework/AddressBookUI
+c000000004CC129090000000000151F20
+t1287727369
+s1384224
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004CC1224600000000001EA9C0
+t1287725638
+s2009536
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreMotion.framework/CoreMotion
+c000000004CC127EF000000000003F3E0
+t1287727087
+s259040
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/EventKit.framework/EventKit
+c000000004CC1281D00000000000C9950
+t1287727133
+s825680
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004CC6569800000000001AAD60
+t1288066712
+s1748320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000004CC6562D000000000009BEC0
+t1288066605
+s638656
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC12431000000000015CDB0
+t1287726129
+s1428912
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004CC121F60000000000068970
+t1287725558
+s428400
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Classes/MobclixTestAppDelegate.h
+c000000004DA130310000000000000206
+t1302409265
+s518
+i<UIKit/UIKit.h>
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Classes/MobclixTestAppDelegate.m
+c000000004DA1312E0000000000000B5D
+t1302409518
+s2909
+i"MobclixTestAppDelegate.h"
+i"MobclixTestViewController.h"
+i"Mobclix.h"
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Classes/MobclixTestViewController.h
+c000000004DA1325F000000000000019D
+t1302409823
+s413
+i<UIKit/UIKit.h>
+i"MobclixAdView.h"
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Classes/MobclixTestViewController.m
+c000000004DA133DE00000000000010E1
+t1302410206
+s4321
+i"MobclixTestViewController.h"
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/GoogleAdMobAdsSDK/README.txt
+c000000004D7DE4A8000000000000016D
+t1300096168
+s365
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/GoogleAdMobAdsSDK/libGoogleAdMobAds.a
+c000000004D7DE4A800000000006DAD34
+t1300096168
+s7187764
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/MainWindow.xib
+c000000004DA130310000000000004E59
+t1302409265
+s20057
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK/Mobclix.h
+c000000004D8CEDF80000000000000549
+t1301081592
+s1353
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK/MobclixAdView.h
+c000000004D8CEDF8000000000000154C
+t1301081592
+s5452
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK/libMobclix.a
+c000000004D8CEE3E000000000088917C
+t1301081662
+s8950140
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/MobclixTestViewController.xib
+c000000004DA131DD0000000000004A19
+t1302409693
+s18969
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/MobclixTest_Prefix.pch
+c000000004DA1303100000000000000C7
+t1302409265
+s199
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphonesimulator/MobclixTest.app
+t1302410229
+s272
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphonesimulator/MobclixTest.app.dSYM
+t1302410228
+s102
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphonesimulator/MobclixTest.app/Info.plist
+t1302410216
+s607
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphonesimulator/MobclixTest.app/MainWindow.nib
+t1302410219
+s1131
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphonesimulator/MobclixTest.app/MobclixTest
+t1302410227
+s691256
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphonesimulator/MobclixTest.app/MobclixTestViewController.nib
+t1302410219
+s1070
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphonesimulator/MobclixTest.app/PkgInfo
+t1302410216
+s8
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphonesimulator/MobclixTest.app/README.txt
+t1302410219
+s365
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphonesimulator/MobclixTest.build/Objects-normal/i386/MobclixTest.LinkFileList
+c000000004DA133E800000000000001C5
+t1302410216
+s453
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphonesimulator/MobclixTest.build/Objects-normal/i386/MobclixTestAppDelegate.o
+t1302410224
+s52268
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphonesimulator/MobclixTest.build/Objects-normal/i386/MobclixTestViewController.o
+t1302410224
+s50088
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphonesimulator/MobclixTest.build/Objects-normal/i386/main.o
+t1302410224
+s6320
+
+N/Users/kkabdol/Desktop/Programming/MobclixTest/main.m
+c000000004DA130310000000000000177
+t1302409265
+s375
+i<UIKit/UIKit.h>
+
+N/var/folders/IS/ISVBNtRIHrWkqp-B+BRHqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MobclixTest_Prefix-bqnvukaetwudapammyjpkiabgqdt/MobclixTest_Prefix.pch.gch
+t1302410223
+s15453392
+
+NMobclixTest-Info.plist
+c000000004DA1303100000000000003AB
+t1302409265
+s939
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies324103015#324103016#0(0"0(0#1#0"32651522506817640#0"0#
+
+CCompileC build/MobclixTest.build/Debug-iphonesimulator/MobclixTest.build/Objects-normal/i386/MobclixTestAppDelegate.o /Users/kkabdol/Desktop/Programming/MobclixTest/Classes/MobclixTestAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s324103023.900960
+e324103024.417518
+r1
+xCompileC
+xbuild/MobclixTest.build/Debug-iphonesimulator/MobclixTest.build/Objects-normal/i386/MobclixTestAppDelegate.o
+x/Users/kkabdol/Desktop/Programming/MobclixTest/Classes/MobclixTestAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/kkabdol/Desktop/Programming/MobclixTest/Classes/MobclixTestAppDelegate.m324103023#324103024#0(0"0(0#0#79"/Users/kkabdol/Desktop/Programming/MobclixTest/Classes/MobclixTestAppDelegate.m8623667712#2126"    cd /Users/kkabdol/Desktop/Programming/MobclixTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphonesimulator/MobclixTest.build/MobclixTest-generated-files.hmap -I/Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphonesimulator/MobclixTest.build/MobclixTest-own-target-headers.hmap -I/Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphonesimulator/MobclixTest.build/MobclixTest-all-target-headers.hmap -iquote /Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphonesimulator/MobclixTest.build/MobclixTest-project-headers.hmap -F/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphonesimulator -I/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphonesimulator/include -I/Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphonesimulator/MobclixTest.build/DerivedSources/i386 -I/Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphonesimulator/MobclixTest.build/DerivedSources -include /var/folders/IS/ISVBNtRIHrWkqp-B+BRHqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MobclixTest_Prefix-bqnvukaetwudapammyjpkiabgqdt/MobclixTest_Prefix.pch -c /Users/kkabdol/Desktop/Programming/MobclixTest/Classes/MobclixTestAppDelegate.m -o /Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphonesimulator/MobclixTest.build/Objects-normal/i386/MobclixTestAppDelegate.o0#
+
+CCompileC build/MobclixTest.build/Debug-iphonesimulator/MobclixTest.build/Objects-normal/i386/MobclixTestViewController.o /Users/kkabdol/Desktop/Programming/MobclixTest/Classes/MobclixTestViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s324103024.262500
+e324103024.408354
+r1
+xCompileC
+xbuild/MobclixTest.build/Debug-iphonesimulator/MobclixTest.build/Objects-normal/i386/MobclixTestViewController.o
+x/Users/kkabdol/Desktop/Programming/MobclixTest/Classes/MobclixTestViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/kkabdol/Desktop/Programming/MobclixTest/Classes/MobclixTestViewController.m324103024#324103024#0(0"0(0#0#82"/Users/kkabdol/Desktop/Programming/MobclixTest/Classes/MobclixTestViewController.m8624734432#2132"    cd /Users/kkabdol/Desktop/Programming/MobclixTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphonesimulator/MobclixTest.build/MobclixTest-generated-files.hmap -I/Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphonesimulator/MobclixTest.build/MobclixTest-own-target-headers.hmap -I/Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphonesimulator/MobclixTest.build/MobclixTest-all-target-headers.hmap -iquote /Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphonesimulator/MobclixTest.build/MobclixTest-project-headers.hmap -F/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphonesimulator -I/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphonesimulator/include -I/Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphonesimulator/MobclixTest.build/DerivedSources/i386 -I/Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphonesimulator/MobclixTest.build/DerivedSources -include /var/folders/IS/ISVBNtRIHrWkqp-B+BRHqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MobclixTest_Prefix-bqnvukaetwudapammyjpkiabgqdt/MobclixTest_Prefix.pch -c /Users/kkabdol/Desktop/Programming/MobclixTest/Classes/MobclixTestViewController.m -o /Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphonesimulator/MobclixTest.build/Objects-normal/i386/MobclixTestViewController.o0#
+
+CCompileC build/MobclixTest.build/Debug-iphonesimulator/MobclixTest.build/Objects-normal/i386/main.o /Users/kkabdol/Desktop/Programming/MobclixTest/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s324103023.894406
+e324103024.262396
+r1
+xCompileC
+xbuild/MobclixTest.build/Debug-iphonesimulator/MobclixTest.build/Objects-normal/i386/main.o
+x/Users/kkabdol/Desktop/Programming/MobclixTest/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/kkabdol/Desktop/Programming/MobclixTest/main.m324103023#324103024#0(0"0(0#0#53"/Users/kkabdol/Desktop/Programming/MobclixTest/main.m8624666112#2082"    cd /Users/kkabdol/Desktop/Programming/MobclixTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphonesimulator/MobclixTest.build/MobclixTest-generated-files.hmap -I/Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphonesimulator/MobclixTest.build/MobclixTest-own-target-headers.hmap -I/Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphonesimulator/MobclixTest.build/MobclixTest-all-target-headers.hmap -iquote /Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphonesimulator/MobclixTest.build/MobclixTest-project-headers.hmap -F/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphonesimulator -I/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphonesimulator/include -I/Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphonesimulator/MobclixTest.build/DerivedSources/i386 -I/Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphonesimulator/MobclixTest.build/DerivedSources -include /var/folders/IS/ISVBNtRIHrWkqp-B+BRHqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MobclixTest_Prefix-bqnvukaetwudapammyjpkiabgqdt/MobclixTest_Prefix.pch -c /Users/kkabdol/Desktop/Programming/MobclixTest/main.m -o /Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphonesimulator/MobclixTest.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/kkabdol/Desktop/Programming/MobclixTest/MainWindow.xib
+s324103016.240039
+e324103019.802790
+r1
+xCompileXIB
+x/Users/kkabdol/Desktop/Programming/MobclixTest/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib324103016#324103019#0(0"0(0#0#61"/Users/kkabdol/Desktop/Programming/MobclixTest/MainWindow.xib8624857216#598"    cd /Users/kkabdol/Desktop/Programming/MobclixTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphonesimulator/MobclixTest.app/MainWindow.nib /Users/kkabdol/Desktop/Programming/MobclixTest/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/kkabdol/Desktop/Programming/MobclixTest/MobclixTestViewController.xib
+s324103016.252709
+e324103019.797174
+r1
+xCompileXIB
+x/Users/kkabdol/Desktop/Programming/MobclixTest/MobclixTestViewController.xib
+lSLF07#2@40"CompileXIB MobclixTestViewController.xib324103016#324103019#0(0"0(0#0#76"/Users/kkabdol/Desktop/Programming/MobclixTest/MobclixTestViewController.xib8623540256#628"    cd /Users/kkabdol/Desktop/Programming/MobclixTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphonesimulator/MobclixTest.app/MobclixTestViewController.nib /Users/kkabdol/Desktop/Programming/MobclixTest/MobclixTestViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/MobclixTest.app/README.txt GoogleAdMobAdsSDK/README.txt
+s324103019.797357
+e324103019.886520
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MobclixTest.app/README.txt
+xGoogleAdMobAdsSDK/README.txt
+lSLF07#2@33"Copy GoogleAdMobAdsSDK/README.txt324103019#324103019#0(0"0(0#0#75"/Users/kkabdol/Desktop/Programming/MobclixTest/GoogleAdMobAdsSDK/README.txt8622862592#514"    cd /Users/kkabdol/Desktop/Programming/MobclixTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kkabdol/Desktop/Programming/MobclixTest/GoogleAdMobAdsSDK/README.txt /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphonesimulator/MobclixTest.app0#
+
+CGenerateDSYMFile /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphonesimulator/MobclixTest.app.dSYM /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphonesimulator/MobclixTest.app/MobclixTest
+s324103028.246079
+e324103029.006547
+r1
+xGenerateDSYMFile
+x/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphonesimulator/MobclixTest.app.dSYM
+x/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphonesimulator/MobclixTest.app/MobclixTest
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/MobclixTest.app.dSYM build/Debug-iphonesimulator/MobclixTest.app/MobclixTest324103028#324103029#0(0"0(0#0#102"/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphonesimulator/MobclixTest.app/MobclixTest8622221760#419"    cd /Users/kkabdol/Desktop/Programming/MobclixTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphonesimulator/MobclixTest.app/MobclixTest -o /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphonesimulator/MobclixTest.app.dSYM0#
+
+CLd /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphonesimulator/MobclixTest.app/MobclixTest normal i386
+s324103024.417617
+e324103028.245863
+r1
+xLd
+x/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphonesimulator/MobclixTest.app/MobclixTest
+xnormal
+xi386
+lSLF07#2@107"Link /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphonesimulator/MobclixTest.app/MobclixTest324103024#324103028#0(0"0(0#0#0"8616941312#1542"    cd /Users/kkabdol/Desktop/Programming/MobclixTest    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphonesimulator -L/Users/kkabdol/Desktop/Programming/MobclixTest/GoogleAdMobAdsSDK "-L/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Mobclix SDK" "-L/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK 4.3.5 for iOS/Mobclix SDK (Non-Thumb)" "-L/Users/kkabdol/Desktop/Programming/MobclixTest/Mobclix SDK" -F/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphonesimulator -filelist /Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphonesimulator/MobclixTest.build/Objects-normal/i386/MobclixTest.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -lGoogleAdMobAds -lMobclix -framework AddressBook -framework AddressBookUI -framework AudioToolbox -framework AVFoundation -framework CoreMotion -framework EventKit -framework MediaPlayer -framework MessageUI -framework QuartzCore -framework SystemConfiguration -o /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphonesimulator/MobclixTest.app/MobclixTest0#
+
+CProcessInfoPlistFile /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphonesimulator/MobclixTest.app/Info.plist MobclixTest-Info.plist
+s324103016.184592
+e324103016.239943
+r1
+xProcessInfoPlistFile
+x/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphonesimulator/MobclixTest.app/Info.plist
+xMobclixTest-Info.plist
+lSLF07#2@30"Process MobclixTest-Info.plist324103016#324103016#0(0"0(0#0#69"/Users/kkabdol/Desktop/Programming/MobclixTest/MobclixTest-Info.plist12948347152433252#515"    cd /Users/kkabdol/Desktop/Programming/MobclixTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MobclixTest-Info.plist -genpkginfo /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphonesimulator/MobclixTest.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphonesimulator/MobclixTest.app/Info.plist0#
+
+CProcessPCH /var/folders/IS/ISVBNtRIHrWkqp-B+BRHqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MobclixTest_Prefix-bqnvukaetwudapammyjpkiabgqdt/MobclixTest_Prefix.pch.gch MobclixTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s324103019.886671
+e324103023.894197
+r1
+xProcessPCH
+x/var/folders/IS/ISVBNtRIHrWkqp-B+BRHqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MobclixTest_Prefix-bqnvukaetwudapammyjpkiabgqdt/MobclixTest_Prefix.pch.gch
+xMobclixTest_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile MobclixTest_Prefix.pch324103019#324103023#0(0"0(0#0#69"/Users/kkabdol/Desktop/Programming/MobclixTest/MobclixTest_Prefix.pch8626952608#1962"    cd /Users/kkabdol/Desktop/Programming/MobclixTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphonesimulator/MobclixTest.build/MobclixTest-generated-files.hmap -I/Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphonesimulator/MobclixTest.build/MobclixTest-own-target-headers.hmap -I/Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphonesimulator/MobclixTest.build/MobclixTest-all-target-headers.hmap -iquote /Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphonesimulator/MobclixTest.build/MobclixTest-project-headers.hmap -F/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphonesimulator -I/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphonesimulator/include -I/Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphonesimulator/MobclixTest.build/DerivedSources/i386 -I/Users/kkabdol/Desktop/Programming/MobclixTest/build/MobclixTest.build/Debug-iphonesimulator/MobclixTest.build/DerivedSources -c /Users/kkabdol/Desktop/Programming/MobclixTest/MobclixTest_Prefix.pch -o /var/folders/IS/ISVBNtRIHrWkqp-B+BRHqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MobclixTest_Prefix-bqnvukaetwudapammyjpkiabgqdt/MobclixTest_Prefix.pch.gch0#
+
+CTouch /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphonesimulator/MobclixTest.app
+s324103029.006640
+e324103029.507361
+r1
+xTouch
+x/Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphonesimulator/MobclixTest.app
+lSLF07#2@96"Touch /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphonesimulator/MobclixTest.app324103029#324103029#0(0"0(0#0#0"8625629408#298"    cd /Users/kkabdol/Desktop/Programming/MobclixTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/kkabdol/Desktop/Programming/MobclixTest/build/Debug-iphonesimulator/MobclixTest.app0#
+
